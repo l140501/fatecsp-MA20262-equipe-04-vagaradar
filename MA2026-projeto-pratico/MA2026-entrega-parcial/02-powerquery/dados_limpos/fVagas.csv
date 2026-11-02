@@ -1,0 +1,1001 @@
+﻿ID_Vaga;Titulo_Vaga;area;Empresa;Modelo_Trabalho;Cidade;UF;Data_Publicacao;Dia_SemanaPublicacao;salario_medio;Indice_medio_vs_brasil_ajustado;Arquivo_Origem;Linha_Origem
+4484723512;Senior Data Scientist;Engenharia de Software;Dock;On-Site;Barueri;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;4
+4477851142;Grupo Quintoandar| Gerente De Dados & Analytics;Gestão;QuintoAndar;On-Site;São Paulo;SP;09/10/2026;sexta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;5
+4483095484;Especialista De Engenharia De Dados/Ia;Banco de Dados;Daiichi Sankyo Brasil Ltda;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;6
+4472766794;Data Manager (Data Engineer);Gestão;Cadastra;On-Site;São Paulo;SP;28/09/2026;segunda-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;7
+4484732281;Data Scientist - Tech Lead;Engenharia de Software;Dock;On-Site;Barueri;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;8
+4478826261;Engenheiro De Dados Pleno;Banco de Dados;Distrito;On-Site;São Paulo;SP;15/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;9
+4473694659;Lead Product Data Analyst;Negócios / Produto;LawnStarter;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;10
+4469698919;Analista De Dados Sênior;Negócios / Produto;Bridge & Co.;On-Site;São Paulo;SP;22/09/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;11
+4478477094;Senior Data Analyst;Negócios / Produto;Kraft Heinz;On-Site;São Paulo;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;12
+4480115698;Cientista De Dados Computer Vision - São Paulo;Engenharia de Software;Deloitte;On-Site;São Paulo;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;13
+4479744240;Cx Business Intelligence Manager;Gestão;99;On-Site;Não informada (Grande SP);SP;15/10/2026;quinta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;14
+4453139123;Analista De Dados Sênior - Crm Pme;Negócios / Produto;Serasa Experian;On-Site;São Paulo;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;15
+4476655971;Analista Sênior De Inteligência De Dados - Mercado Envios;Negócios / Produto;Mercado Livre Brasil;On-Site;Osasco;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;16
+4474852808;Analista Dados Ii;Negócios / Produto;Stix;On-Site;Barueri;SP;08/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;17
+4473424877;Analista De Dados Sênior;Negócios / Produto;Brasilseg;On-Site;São Paulo;SP;03/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;18
+4480178710;Business Intelligence Sam Manager;Gestão;Ferrero;On-Site;São Paulo;SP;16/10/2026;sexta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;20
+4476335003;Engenheiro De Dados Especialista - Híbrido;Banco de Dados;FOURSYS;Hybrid;Barueri;SP;06/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;21
+4437192687;Analista De Dados Pleno - Crm Pme;Negócios / Produto;Serasa Experian;On-Site;São Paulo;SP;23/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;22
+4477770284;Analista De Dados Sênior;Negócios / Produto;J&F S.A.;On-Site;São Paulo;SP;17/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;23
+4472913572;Analista De Dados - Mogi Das Cuzes;Negócios / Produto;Movida Aluguel de Carros;On-Site;Mogi das Cruzes;SP;01/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;24
+4480461823;Analista Sênior De Dados De Transporte - Mercado Envios;Negócios / Produto;Mercado Livre Brasil;On-Site;Osasco;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;25
+4476829827;Engenheiro(A) De Dados | Gcp;Banco de Dados;Dexian;On-Site;Barueri;SP;09/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;27
+4480256623;Engenheiro De Dados Sênior;Banco de Dados;Nava | Tech for Business;On-Site;São Paulo;SP;24/09/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;28
+4465356690;Grupo Quintoandar | Senior Data Scientist;Engenharia de Software;QuintoAndar;On-Site;São Paulo;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;29
+4484258862;Consultor Cientista De Dados Sênior | São Paulo;Engenharia de Software;Deloitte;On-Site;São Paulo;SP;27/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;30
+4476888114;Engenheiro De Dados/Databricks (68703);Banco de Dados;EVT IT;On-Site;São Paulo;SP;10/10/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;31
+4435477345;Especialista Em Engenharia De Dados;Banco de Dados;Familhão;On-Site;Barueri;SP;03/07/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;32
+4465542550;Engenheiro De Dados Sr - Consultor;Banco de Dados;Cruzeiro do Sul Educacional;On-Site;São Paulo;SP;27/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;33
+4480657150;Analista De Dados Associado;Negócios / Produto;Confience Brazil;On-Site;Jundiaí;SP;23/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;34
+4478809918;Data Scientist Manager / Líder Analytics;Gestão;eQuiv - Search & Advisory;On-Site;São Paulo;SP;15/10/2026;quinta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;36
+4457495785;Business Data & Technology Lead;Negócios / Produto;Hunter Douglas, Inc.;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;37
+4472598578;Data Scientist | Marketing Science;Engenharia de Software;DP6;On-Site;São Paulo;SP;30/09/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;38
+4479507658;Analista De Dados Etl - Hibrido;Banco de Dados;FOURSYS;Hybrid;Barueri;SP;14/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;39
+4481051110;Especialista De Dados (Dados Comerciais);Negócios / Produto;Sem Parar;On-Site;São Paulo;SP;24/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;40
+4444649052;Data Engineer Lead / Líder De Engenharia De Dados;Gestão;eQuiv - Search & Advisory;On-Site;São Paulo;SP;25/07/2026;sábado;20.097,00;540,00%;Bruto_jobs_dados.xlsx;41
+4481442944;Especialista Em Engenharia De Dados (Databricks) - Hibrido Barueri_Sp;Banco de Dados;QiBit;Hybrid;São Paulo;SP;26/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;42
+4480063829;Engenheiro De Dados Sr - Analista Sr;Banco de Dados;Cruzeiro do Sul Educacional;On-Site;São Paulo;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;43
+4470377172;Especialista De Bi;Negócios / Produto;Carbigdata;On-Site;São Paulo;SP;25/09/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;44
+4456291927;Engenheiro De Dados Sênior - Híbrido (Sp);Banco de Dados;Objective;Hybrid;São Paulo;SP;21/08/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;45
+4454224900;Pessoa Engenheira De Dados Plena;Banco de Dados;Zeta Dados;On-Site;São Paulo;SP;27/07/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;46
+4482880870;Analista De Dados Pleno | Jurídico | Corporativo São Paulo;Negócios / Produto;Rede D'Or;On-Site;São Paulo;SP;23/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;47
+4465148827;Analista De Revenue Operations Sênior;Negócios / Produto;Dafiti;On-Site;São Paulo;SP;11/09/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;48
+4482223644;Analista De Dados Pleno;Negócios / Produto;WMcCann;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;49
+4473194478;Analista De Dados Pleno;Negócios / Produto;Brasilseg;On-Site;São Paulo;SP;02/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;50
+4465908982;Engenheiro(A) De Dados;Banco de Dados;XP Inc.;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;51
+4457495378;Senior Data Engineer (Híbrido Sp);Banco de Dados;Keyrus;Hybrid;Não informada (Grande SP);SP;28/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;52
+4480479198;Analista De Dados Sênior;Negócios / Produto;Minsait;On-Site;São Paulo;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;53
+4482355222;Associate Data Engineer;Banco de Dados;Wildlife Studios;On-Site;São Paulo;SP;24/10/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;54
+4432238222;Analytics Engineer;Banco de Dados;Darwin AI;On-Site;São Paulo;SP;29/05/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;55
+4482760709;Engenheiro(A) De Dados Databricks | Pleno/Sênior (Remoto);Banco de Dados;SAUTER;Remote;São Paulo;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;56
+4458246911;Specialist - Data Engineering;Banco de Dados;Marsh;On-Site;Não informada (Grande SP);SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;57
+4465148828;Analytics Engineer Sênior;Banco de Dados;Riachuelo;On-Site;São Paulo;SP;09/09/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;58
+4476674583;Especialista Em Dados;Negócios / Produto;WPP Media;On-Site;São Paulo;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;59
+4481740461;Data Scientist Specialist;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;60
+4480183215;Data Scientist Sr;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;61
+4449840196;Analista De Dados Pl;Negócios / Produto;Allcare Gestora de Saúde;On-Site;São Paulo;SP;10/08/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;62
+4482570457;Analista De Dados Pleno 🧡;Negócios / Produto;Diagonal;On-Site;São Paulo;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;63
+4472118613;Analista Financeiro Júnior (Dados);Negócios / Produto;Tokio Marine Seguradora;On-Site;São Paulo;SP;30/09/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;64
+4478179496;Analytics Engineer;Banco de Dados;DoorDash;On-Site;São Paulo;SP;14/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;65
+4454237054;Pessoa Engenheira De Dados Sênior;Banco de Dados;Zeta Dados;On-Site;São Paulo;SP;23/07/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;67
+4445159891;Especialista Em Engenharia De Dados | Híbrido | Clt | Media Tech;Banco de Dados;VONBZ;Hybrid;Barueri;SP;27/07/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;68
+4482719189;Engenheiro De Dados | Data Engineer;Banco de Dados;Mondelēz International;On-Site;São Paulo;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;69
+4472154772;Analista De Dados Pl. - Alphaville;Negócios / Produto;UNIFISA ADM NACIONAL DE CONSORCIOS LTDA.;On-Site;Santana de Parnaíba;SP;30/09/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;70
+4481815430;Cientista De Dados Sênior;Engenharia de Software;Insi;On-Site;São Paulo;SP;26/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;71
+4476684941;Especialista De Dados;Negócios / Produto;WPP Media;On-Site;São Paulo;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;72
+4484759249;Data Engineer Ii;Banco de Dados;MSX International;On-Site;São Caetano do Sul;SP;28/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;73
+4485345716;Analista De Dados Pleno Ii;Negócios / Produto;WPP Enterprise Solutions;On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;74
+4485232007;Especialista Em Inteligência De Dados;Negócios / Produto;Porto;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;75
+4483496985;Especialista Em Ciência De Dados;Engenharia de Software;Cielo;On-Site;Barueri;SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;76
+4471135443;Cientista De Dados Pl I;Engenharia de Software;WPP Enterprise Solutions;On-Site;São Paulo;SP;23/09/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;77
+4477596797;Consultor Sênior De Dados E Ia | Microsoft & Databricks;Engenharia de Software;SoftwareOne;Hybrid;São Paulo;SP;12/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;78
+4439915852;Data Engineer Gcp Pl/Sr;Banco de Dados;Keyrus;On-Site;São Paulo;SP;31/10/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;79
+4484898858;Analista De Dados - Inteligência De Mercado;Negócios / Produto;Marjan Farma;On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;80
+4480267131;Vindi | Analista De Dados Pleno - Estratégia De Prevenção À Fraudes | Híbrido;Negócios / Produto;Vindi;Hybrid;São Paulo;SP;07/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;81
+4484801715;Analista De Dados E Indicadores Sr. (Irlm);Negócios / Produto;Fundação Faculdade de Medicina;On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;82
+4473076265;Analista De Engenharia De Dados Junior (Microsoft Azure);Banco de Dados;DXC Technology;On-Site;São Bernardo do Campo;SP;20/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;83
+4477020251;Analista De Data Analytics Senior (Engenheiro De Dados);Banco de Dados;Assaí Atacadista;On-Site;São Paulo;SP;14/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;84
+4472973888;Analista De Inteligencia De Dados Em Saude Sr;Negócios / Produto;MDS Group;On-Site;São Paulo;SP;01/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;85
+4372262252;Analista Sr| Food (Dados);Negócios / Produto;Shippify Inc;On-Site;São Paulo;SP;13/02/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;86
+4472976785;Analista Inteligência De Dados Pleno;Negócios / Produto;Digio;On-Site;Barueri;SP;01/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;87
+4429980798;Principal Data Engineer - Quantumblack Studio;Banco de Dados;QuantumBlack, AI by McKinsey;On-Site;São Paulo;SP;25/10/2026;domingo;9.435,00;253,00%;Bruto_jobs_dados.xlsx;88
+4458065513;Coordenador De Dados;Gestão;Caixa Vida e Previdência;On-Site;Barueri;SP;28/08/2026;sexta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;89
+4476306408;Coordenador De Dados;Gestão;Jobbol;On-Site;São Paulo;SP;06/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;90
+4481769102;Data Operations Analyst;Banco de Dados;99;On-Site;Não informada (Grande SP);SP;20/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;91
+4480271466;Analista De Dados Sr;Negócios / Produto;Target Software - Technology Solutions;On-Site;Não informada (Grande SP);SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;92
+4469365084;Analista De Análise De Dados Sr;Negócios / Produto;Farmarcas;On-Site;São Paulo;SP;23/09/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;93
+4451410958;Cientista De Dados Especialista;Engenharia de Software;Yandeh;On-Site;São Paulo;SP;04/08/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;94
+4463618220;Senior Data Modelling / Dataverse - Com Inglês;Negócios / Produto;Capco;On-Site;São Paulo;SP;18/10/2026;domingo;7.041,00;189,00%;Bruto_jobs_dados.xlsx;95
+4469947456;Engenheiro De Dados | Bi;Banco de Dados;Jump;On-Site;São Paulo;SP;21/09/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;96
+4429540976;Senior Data Engineer;Banco de Dados;Tractian;On-Site;São Paulo;SP;23/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;97
+4477749051;Coordenador De Bi - Latam;Gestão;JCDecaux Brasil;On-Site;São Paulo;SP;17/10/2026;sábado;20.097,00;540,00%;Bruto_jobs_dados.xlsx;98
+4482569536;[Tech] Engenharia Especialista De Dados E Ia;Banco de Dados;TOTVS;On-Site;São Paulo;SP;28/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;100
+4482120261;Especialista De Dados Para Crédito - Fintech;Negócios / Produto;Petlove;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;101
+4429561622;Data Engineer - Quantumblack Studio;Banco de Dados;QuantumBlack, AI by McKinsey;On-Site;São Paulo;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;102
+4468232508;Sr. Data Analyst (Financial Systems & Automation);Automação;Serena;On-Site;São Paulo;SP;29/10/2026;quinta-feira;6.221,00;167,00%;Bruto_jobs_dados.xlsx;103
+4479322530;Consultor(A) De Analytics E Ciência De Dados;Engenharia de Software;Accenture Brasil;On-Site;São Paulo;SP;16/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;104
+4481614246;Senior Data Engineer (Databricks & Ai Solutions);Banco de Dados;Cognizant;On-Site;Não informada (Grande SP);SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;105
+4462573014;Analista De Sistemas Sênior (Engenheiro De Dados);Banco de Dados;Assaí Atacadista;On-Site;São Paulo;SP;08/09/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;106
+4483769492;Analista De Performance Sênior;Negócios / Produto;Mondelēz International;On-Site;São Paulo;SP;26/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;108
+4480742324;Analista De Dados;Negócios / Produto;KPMG Brazil;On-Site;São Paulo;SP;26/09/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;109
+4475707914;Analista De Dados Pleno;Negócios / Produto;Zmes;On-Site;São Paulo;SP;07/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;110
+4481155950;Data Scientist - Indaiatuba/Sp;Engenharia de Software;John Deere;On-Site;Indaiatuba;SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;111
+4470740269;Coordenador (A) De Dados | Dbm E Crm;Gestão;Riachuelo;On-Site;São Paulo;SP;25/09/2026;sexta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;112
+4459222558;Senior Data Engineer (Apache Kafka);Banco de Dados;EY;On-Site;São Paulo;SP;13/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;113
+4469797264;Analista De Dados Pleno;Negócios / Produto;Solví Soluções para a Vida;On-Site;São Paulo;SP;24/09/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;114
+4474838709;Engenheiro De Dados Sênior | Tecnologia;Banco de Dados;americanas s.a.;On-Site;Não informada (Grande SP);SP;08/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;115
+4479885490;Analista De Dados Pleno;Negócios / Produto;STRADA;On-Site;São Paulo;SP;15/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;116
+4198283063;Cientista De Dados;Engenharia de Software;XP Inc.;On-Site;São Paulo;SP;26/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;117
+4473598337;Analista De People Analytics Iii;Negócios / Produto;Ânima Educação;On-Site;São Paulo;SP;30/09/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;118
+4480099103;Engenheiro(A) De Dados;Banco de Dados;Avita®;On-Site;São Paulo;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;119
+4470378414;Cientista De Dados - Júnior;Engenharia de Software;Equifax;On-Site;Barueri;SP;17/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;120
+4484593595;Tech Manager Dados & Ia;Gestão;N5X;On-Site;São Paulo;SP;30/10/2026;sexta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;121
+4484890263;Cientista De Dados Sr;Engenharia de Software;ANBIMA;On-Site;São Paulo;SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;122
+4474072959;Consultor Data & Analytics Google Cloud (Bigquery E Gcs);Negócios / Produto;Lab2dev;On-Site;Osasco;SP;06/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;123
+4478915013;Global Procurement Data Specialist;Negócios / Produto;ADM;On-Site;São Paulo;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;124
+4482549728;Senior Data Engineer;Banco de Dados;Ria Money Transfer;On-Site;Barueri;SP;28/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;125
+4485363318;Especialista Em Dados;Negócios / Produto;Empresa Confidencial;On-Site;Guarulhos;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;126
+4476481009;Fp&A Manager - Finance Analytics & Data Strategy;Gestão;PepsiCo;On-Site;São Paulo;SP;13/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;128
+4465790719;Analista De Performance E Dados;Negócios / Produto;Fintalk;On-Site;São Paulo;SP;14/09/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;129
+4482247802;Analista De Dados - São Paulo;Negócios / Produto;Allink Neutral Provider;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;130
+4468909811;(Banco De Talentos) - Cientista De Dados Sênior;Engenharia de Software;Minerva Foods;On-Site;São Paulo;SP;22/09/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;131
+4466159191;Cientista De Dados Pleno;Engenharia de Software;Pier Seguradora;On-Site;São Paulo;SP;14/09/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;132
+4426027040;Analista De Dados Pl (Sinistro);Negócios / Produto;Too Seguros;On-Site;São Paulo;SP;09/06/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;133
+4470213267;Data-Ai Architect;Arquitetura;dLocal;On-Site;São Paulo;SP;21/09/2026;segunda-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;134
+4475825726;Analista De Dados E Insights Sênior;Negócios / Produto;Porto;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;135
+4478624575;Engenheiro De Dados Sênior;Banco de Dados;B3;On-Site;São Paulo;SP;19/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;136
+4483501530;Tech Lead - Sustentação De Dados;Engenharia de Software;Nava | Tech for Business;On-Site;São Paulo;SP;25/10/2026;domingo;13.683,00;368,00%;Bruto_jobs_dados.xlsx;137
+4481944507;Engenheiro De Dados (Sustentação E Desenvolvimento);Banco de Dados;Komatsu Brasil;On-Site;São Paulo;SP;23/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;138
+4483313057;Analista De People Analytics Pleno/Senior;Negócios / Produto;Ânima Educação;On-Site;São Paulo;SP;24/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;139
+4471449557;Engenheiro De Dados Sênior;Banco de Dados;Brasilprev;On-Site;São Paulo;SP;24/09/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;140
+4465799648;Coordenador Data Analytics;Gestão;Trinus Co;On-Site;São Paulo;SP;14/09/2026;segunda-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;141
+4480499810;Analista De Dados De Sinistros Júnior;Negócios / Produto;Too Seguros;On-Site;São Paulo;SP;15/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;142
+4457097542;Engenheiro De Dados;Banco de Dados;TWE;On-Site;Não informada (Grande SP);SP;21/08/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;143
+4484817584;Consultor(A) De Dados/Insights - São Paulo/Sp;Negócios / Produto;Vivo (Telefônica Brasil);On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;144
+4471122567;Data & Intelligence Director | South Cone;Gestão;Edelman Intelligence;On-Site;São Paulo;SP;15/10/2026;quinta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;145
+4387124080;Especialista Em Dados;Negócios / Produto;Portal Tela;On-Site;São Paulo;SP;18/03/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;146
+4466574991;Cientista De Dados Sênior — S&Op / Forecast - São Paulo;Engenharia de Software;Shopee;On-Site;São Paulo;SP;15/09/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;147
+4458520780;Supervisor De Bi;Gestão;BYD Carreiras;On-Site;Não informada (Grande SP);SP;24/08/2026;segunda-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;149
+4479836587;Gerente De Estratégia E Performance (Gestão De Portfólio Auto);Gestão;Grupo HDI;On-Site;São Paulo;SP;15/10/2026;quinta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;150
+4433257827;Analista De Dados Sr;Negócios / Produto;iMile Delivery;On-Site;Barueri;SP;23/06/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;151
+4483056220;Engenheiro De Dados Sr.;Banco de Dados;UOL EdTech;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;152
+4468040650;Clone: Analista De Dados Pleno;Negócios / Produto;WTime Business Intelligence;On-Site;São Paulo;SP;19/09/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;153
+4475283099;Analista De Dados;Negócios / Produto;Selpe Vagas;On-Site;São Paulo;SP;10/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;155
+4477002919;Engenheiro De Dados Sênior;Banco de Dados;Insi;On-Site;São Paulo;SP;14/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;156
+4483267843;Engenheiro De Dados Jr (Híbrido);Banco de Dados;Lima Consulting Brasil;Hybrid;São Paulo;SP;26/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;157
+4479072396;Consultor(A) Data Engineer;Banco de Dados;Avanade;On-Site;São Paulo;SP;13/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;158
+4443892369;Consultor(A) – Ciência De Dados E Analytics Avançado | Serviços Financeiros;Engenharia de Software;Accenture Brasil;On-Site;São Paulo;SP;17/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;159
+4484763063;Engenheiro(A) De Dados Pleno (Databricks);Banco de Dados;Serasa Experian;On-Site;São Paulo;SP;28/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;160
+4481635337;Data Engineer Sr;Banco de Dados;Dock;On-Site;Barueri;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;161
+4484725590;Engenheiro De Dados;Banco de Dados;Dock;On-Site;Barueri;SP;28/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;162
+4483072383;Analista Sênior De Dados E Automação - Mercado Envios;Automação;Mercado Livre Brasil;On-Site;Osasco;SP;29/10/2026;quinta-feira;6.221,00;167,00%;Bruto_jobs_dados.xlsx;163
+4484290156;Data Science Technical Lead (Python + Ontology) - Remote Work | Ref#306733;Engenharia de Software;BairesDev;Remote;São Paulo;SP;27/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;164
+4480320824;Grupo Quintoandar | Data Intelligence Specialist (Collections & New Businesses );Negócios / Produto;QuintoAndar;On-Site;São Paulo;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;165
+4465071207;Analista De Engenharia De Dados Iii - (Vaga Afirmativa Para Mulheres);Banco de Dados;Serasa Experian;On-Site;São Paulo;SP;23/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;166
+4440080912;Grupo Quintoandar | Senior Data Scientist (Women Applicants Only);Engenharia de Software;QuintoAndar;On-Site;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;169
+4479037776;Cientista De Dados Sênior - Híbrido;Engenharia de Software;FOURSYS;Hybrid;Barueri;SP;13/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;170
+4445267536;Grupo Quintoandar| People Analytics Specialist;Negócios / Produto;QuintoAndar;On-Site;São Paulo;SP;25/07/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;172
+4474338965;Business Intelligence Engineer - Remote Work | Ref#301626;Engenharia de Software;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;173
+4476309408;Analista De Engenharia De Dados Iii;Banco de Dados;Serasa Experian;On-Site;São Paulo;SP;28/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;174
+4484456566;Cientista De Dados;Engenharia de Software;FOURSYS;On-Site;Barueri;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;175
+4483206518;Analista De Dados - Trabalho Remoto;Negócios / Produto;BairesDev;Remote;São Paulo;SP;26/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;176
+4479597079;Arquiteto De Dados;Arquitetura;FOURSYS;On-Site;Barueri;SP;14/10/2026;quarta-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;177
+4462078354;Data Architect - Gcp / Bigquery - Remote Work | Ref#302755;Arquitetura;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;178
+4479454344;Especialista De Produto De Dados - Pessoa Com Deficiência - Fintech;Negócios / Produto;Mercado Livre Brasil;On-Site;Osasco;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;179
+4482033240;Especialista Cientista De Dados I;Engenharia de Software;Serasa Experian;On-Site;São Paulo;SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;180
+4368356354;Grupo Quintoandar | Staff Data Engineer;Banco de Dados;QuintoAndar;On-Site;São Paulo;SP;31/10/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;181
+4478658292;Cientista De Dados Sênior;Engenharia de Software;Cruzeiro do Sul Educacional;On-Site;São Paulo;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;182
+4481748317;Data Scientist I;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;183
+4479207994;Python Data Scientist (Scikit-Learn) - Remote Work | Ref#305910;Engenharia de Software;BairesDev;Remote;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;184
+4474349663;Data Engineer (Palantir) - Remote Work | Ref#304930;Banco de Dados;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;185
+4481799374;Data Scientist Sr - Estratégia E Gestão De Crédito;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;186
+4478180562;Data Engineer - Vaga Para Mulheres;Banco de Dados;DoorDash;On-Site;São Paulo;SP;14/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;187
+4480188150;Data Scientist Iii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;188
+4476342744;Engenheiro De Dados Especialista;Banco de Dados;FOURSYS;On-Site;Barueri;SP;06/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;189
+4482760304;Especialista De Prevencao A Fraude I;Negócios / Produto;Serasa Experian;On-Site;São Paulo;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;191
+4482020662;Analista De Dados;Negócios / Produto;Serasa Experian;On-Site;São Paulo;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;192
+4481223638;Data Scientist Iii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;193
+4481742399;Data Scientist Ii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;194
+4344825669;Grupo Quintoandar | Staff Data Scientist;Engenharia de Software;QuintoAndar;On-Site;São Paulo;SP;31/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;195
+4481747283;Data Engineer Ii;Banco de Dados;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;196
+4462089098;Business Intelligence & Power Bi Architect - Remote Work | Ref#302720;Arquitetura;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;197
+4478184391;Analytics Engineer - Vaga Para Mulheres;Banco de Dados;DoorDash;On-Site;São Paulo;SP;14/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;198
+4464556902;Especialista Ciência De Dados I Abastecimento;Engenharia de Software;Riachuelo;On-Site;São Paulo;SP;10/09/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;199
+4481749092;Data Science Manager;Gestão;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;200
+4474346761;Data Platform Architect – Azure & Snowflake - Remote Work | Ref#305258;Arquitetura;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;201
+4437715036;Grupo Quintoandar | Staff Data Engineer (Women Applicants Only);Banco de Dados;QuintoAndar;On-Site;São Paulo;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;203
+4460685431;Analytics Engineer Sênior;Banco de Dados;Dock;On-Site;Barueri;SP;01/09/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;204
+4485113852;Especialista I Engenharia De Dados;Banco de Dados;Riachuelo;On-Site;São Paulo;SP;30/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;205
+4479717666;Data Scientist Manager;Gestão;Banco Bradesco;On-Site;Osasco;SP;14/10/2026;quarta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;206
+4482736158;Analytics Engineer Ii - Data Governance;Banco de Dados;Banco Bradesco;On-Site;Osasco;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;207
+4480170951;Data Scientist Iii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;208
+4464153407;Especialista I Ciência De Dados;Engenharia de Software;Riachuelo;On-Site;São Paulo;SP;09/09/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;209
+4429551856;Senior Data Engineer - Quantumblack Studio;Banco de Dados;QuantumBlack, AI by McKinsey;On-Site;São Paulo;SP;25/10/2026;domingo;9.435,00;253,00%;Bruto_jobs_dados.xlsx;210
+4482002337;Data Scientist Iii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;211
+4475235291;Analista De Dados | Afirmativa Pcd;Negócios / Produto;Sem Parar;On-Site;São Paulo;SP;09/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;212
+4474554600;Grupo Quintoandar | Analista De Performance Sênior;Negócios / Produto;QuintoAndar;On-Site;São Paulo;SP;23/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;213
+4474446927;Analista Senior - Prevenção A Fraude;Negócios / Produto;Mercado Livre Brasil;On-Site;Osasco;SP;07/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;214
+4479215767;Analista Inteligência De Dados Sênior (Inspetoria);Negócios / Produto;Porto;On-Site;São Paulo;SP;13/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;215
+4481224593;Data Engineer Iii;Banco de Dados;Banco Bradesco;On-Site;Osasco;SP;19/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;216
+4482018735;Analista De Cientista De Dados Pleno;Engenharia de Software;Serasa Experian;On-Site;São Paulo;SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;217
+4481792997;Data Scientist Specialist - Monitoramento De Modelos De Risco De Crédito;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;218
+4478191200;Data Engineer - Vaga Exclusiva Para Pcd;Banco de Dados;DoorDash;On-Site;São Paulo;SP;14/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;219
+4481247443;Grupo Quintoandar | Sr Performance Analyst (Onboarding High Touch);Negócios / Produto;QuintoAndar;On-Site;São Paulo;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;220
+4437703293;Grupo Quintoandar | Staff Data Scientist (Women Applicants Only);Engenharia de Software;QuintoAndar;On-Site;São Paulo;SP;31/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;221
+4481626470;Senior Data Scientist;Engenharia de Software;Dock;On-Site;Barueri;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;223
+4481618747;Data Scientist - Tech Lead;Engenharia de Software;Dock;On-Site;Barueri;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;224
+4480075273;Engenheiro De Dados Sr - Consultor;Banco de Dados;Cruzeiro do Sul Educacional;On-Site;São Paulo;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;225
+4482230917;Engenheiro De Dados Sr - Consultor;Banco de Dados;Cruzeiro do Sul Educacional;On-Site;São Paulo;SP;27/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;226
+4481221690;Data Scientist Specialist;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;227
+4483116703;Data Scientist Sr;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;228
+4482782555;Data Scientist Specialist;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;229
+4413611750;Especialista Em Ciência De Dados;Engenharia de Software;Cielo;On-Site;Barueri;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;230
+4466390114;Analista De Dados Pl. - Alphaville;Negócios / Produto;UNIFISA ADM NACIONAL DE CONSORCIOS LTDA.;On-Site;Santana de Parnaíba;SP;11/09/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;231
+4480519685;Data Scientist Specialist;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;16/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;232
+4458031822;[Tech] Engenharia Especialista De Dados E Ia;Banco de Dados;TOTVS;On-Site;São Paulo;SP;27/08/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;233
+4464874811;Analista Sênior De Analytics | Advanced Analytics;Negócios / Produto;Dasa;On-Site;São Paulo;SP;11/09/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;234
+4474868005;[Tech] Engenharia Especialista De Dados E Ia;Banco de Dados;TOTVS;On-Site;São Paulo;SP;08/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;235
+4466888399;Cientista De Dados - Júnior;Engenharia de Software;Equifax;On-Site;Barueri;SP;29/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;236
+4483900797;Especialista Em Ciência De Dados;Engenharia de Software;Cielo;On-Site;Barueri;SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;237
+4481298387;Data Scientist Specialist;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;238
+4480187153;Data Scientist Specialist;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;239
+4480177461;Data Scientist Specialist;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;241
+4473433567;Especialista De Engenharia De Dados;Banco de Dados;Brasilseg;On-Site;São Paulo;SP;03/10/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;242
+4480596453;Analista De Bi;Negócios / Produto;EVER Trade Marketing;On-Site;São Paulo;SP;17/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;243
+4476828642;Consultor(A) De Dados E Analytics – Mercado Financeiro;Negócios / Produto;KPMG Brazil;On-Site;São Paulo;SP;09/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;244
+4449098539;Data Engineer Specialist;Banco de Dados;Banco Bradesco;On-Site;Osasco;SP;30/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;245
+4450945603;Banco De Talentos - Engenheiro (A) De Dados Pleno 1;Banco de Dados;EY;On-Site;São Paulo;SP;13/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;246
+4315768686;Banco De Talentos - Dados;Negócios / Produto;Gerdau;On-Site;São Paulo;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;247
+4483480108;Analista De Dados Pleno;Negócios / Produto;Matri;On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;248
+4477452040;Arquitetura De Dados | Híbrido/Sp - 135094;Arquitetura;GFT Brasil;Hybrid;São Paulo;SP;08/10/2026;quinta-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;249
+4483063435;Engenheiro (A) De Dados Cloud Sr;Banco de Dados;EY;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;250
+4469086193;Analista De Dados Pleno - Pricing;Negócios / Produto;Bridge & Co.;On-Site;São Paulo;SP;22/09/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;251
+4482021652;Especialista De Dados;Negócios / Produto;Serasa Experian;On-Site;São Paulo;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;252
+4473198478;Analista De Dados & Ia Sr.;Engenharia de Software;Apsen Farmacêutica;On-Site;São Paulo;SP;03/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;253
+4445153877;Analista De Business Intelligence| Sênior | Híbrido | Clt | Media Tech;Negócios / Produto;VONBZ;Hybrid;Barueri;SP;27/07/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;254
+4479226382;Data Scientist - Collection;Engenharia de Software;CloudWalk, Inc.;On-Site;Não informada (Grande SP);SP;13/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;255
+4481049181;Coordenador De Engenharia De Dados;Gestão;Movida Aluguel de Carros;On-Site;São Paulo;SP;24/10/2026;sábado;20.097,00;540,00%;Bruto_jobs_dados.xlsx;256
+4478191301;Gerente Mis Operações;Gestão;Vivo (Telefônica Brasil);On-Site;São Paulo;SP;14/10/2026;quarta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;257
+4405056612;Analista De Dados Pleno;Negócios / Produto;WTime Business Intelligence;On-Site;São Paulo;SP;24/04/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;258
+4481612285;Lead Data Architect (Databricks & Ai Platforms);Arquitetura;Cognizant;On-Site;Não informada (Grande SP);SP;22/10/2026;quinta-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;259
+4465153814;Engenheira De Dados Sênior - Afirmativa Para Mulheres;Banco de Dados;180 Seguros;On-Site;São Paulo;SP;11/09/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;260
+4477829584;Analista De Inteligência De Dados Júnior;Negócios / Produto;Porto;On-Site;São Paulo;SP;31/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;261
+4482022531;Analista De Daods Pleno;Negócios / Produto;Serasa Experian;On-Site;São Paulo;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;262
+4483133324;Engenheiro De Dados;Banco de Dados;Avanade;On-Site;São Paulo;SP;23/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;263
+4448668378;Analista De Dados Sênior;Negócios / Produto;Instituto Ânima;On-Site;São Paulo;SP;04/08/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;264
+4482300859;Cientista De Dados Sênior;Engenharia de Software;Rox Partner;On-Site;São Paulo;SP;24/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;265
+4483723224;Analista De Int. De Dados Pl.;Negócios / Produto;Porto;On-Site;São Paulo;SP;26/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;266
+4478628198;Engenheiro/A De Dados;Engenharia de Software;Odebrecht Engenharia & Construção;On-Site;São Paulo;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;267
+4477739438;Analista De Dados Sênior;Negócios / Produto;Lojas Torra;On-Site;São Paulo;SP;17/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;268
+4442869373;Analista De Dados Pleno (Vaga Inclusiva Para Pessoas Com Deficiência);Negócios / Produto;Concremat Engenharia e Tecnologia;On-Site;São Paulo;SP;27/07/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;269
+4483777835;Grupo Quintoandar | Analista De Planejamento E Performance - Supply Photos (Pcd);Negócios / Produto;QuintoAndar;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;271
+4469917940;Pessoa Analista De Mis Sênior;Negócios / Produto;credsystem;On-Site;Barueri;SP;21/09/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;272
+4482568230;Senior Data Engineer - Data Engineering;Banco de Dados;GEP Worldwide;On-Site;São Paulo;SP;28/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;273
+4484968580;Analista De Dados Junior;Negócios / Produto;Atlantic Solutions Brazil;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;274
+4484563169;Cientista De Dados Junior | Junior Data Scientist;Engenharia de Software;Rock Encantech;On-Site;São Paulo;SP;29/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;275
+4476918738;Engenheiro De Dados Pleno Ii;Banco de Dados;WPP Enterprise Solutions;On-Site;São Paulo;SP;07/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;277
+4475137970;Senior Data Scientist;Engenharia de Software;Wildlife Studios;On-Site;São Paulo;SP;24/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;278
+4481269061;Analista De Administração De Dados Iii;Negócios / Produto;Jobbol;On-Site;São Paulo;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;279
+4482309732;Especialista Em Dados E Business Intelligence (Bi & Ia);Engenharia de Software;Prosperi;On-Site;São Paulo;SP;24/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;280
+4473808615;Analista Ciência De Dados;Engenharia de Software;Riachuelo;On-Site;São Paulo;SP;02/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;281
+4480561365;Engenheiro De Dados Pleno;Banco de Dados;Jobbol;On-Site;São Paulo;SP;16/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;282
+4368790611;Banco De Talentos _ Analista De Dados;Negócios / Produto;KPMG Brazil;On-Site;São Paulo;SP;10/01/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;283
+4478617906;Analista Sênior De Dados E Processos De Automação - Mercado Envios;Automação;Mercado Livre Brasil;On-Site;Osasco;SP;19/10/2026;segunda-feira;6.221,00;167,00%;Bruto_jobs_dados.xlsx;284
+4476847054;Machine Learning Engineer Especialista;Engenharia de Software;Dexian;On-Site;Não informada (Grande SP);SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;285
+4475247560;Analista De Business Intelligence Júnior | Barueri;Negócios / Produto;G2L LOGÍSTICA;On-Site;Barueri;SP;09/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;286
+4463575973;Engenheiro(A) De Dados Jr - Sas;Banco de Dados;SYNORO Negócios Inovadores;On-Site;São Paulo;SP;15/08/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;287
+4483462922;Analista De Dados Pleno Ii;Negócios / Produto;VML Enterprise Solutions;On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;288
+4479708364;Analista Pleno De Engenharia De Dados | São Paulo;Banco de Dados;Ricardo Almeida;On-Site;São Paulo;SP;14/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;289
+4459345715;Data Scientist Ii (Ai Deployment);Engenharia de Software;Braze;On-Site;São Paulo;SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;290
+4480561740;Especialista De Dados | Honorários Médicos | Corporativo Sp;Negócios / Produto;Rede D'Or;On-Site;São Paulo;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;291
+4377987281;Banco De Talentos De Dados | All Set Comunicação;Negócios / Produto;All Set;On-Site;São Paulo;SP;27/02/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;292
+4476964948;Cientista Dados Sr;Negócios / Produto;Stefanini Brasil;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;293
+4470961848;Data Analytics Engineer;Banco de Dados;Toptal;On-Site;Não informada (Grande SP);SP;19/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;295
+4483708814;Engenheiro De Dados Sr;Banco de Dados;BRQ Digital Solutions;On-Site;São Paulo;SP;26/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;296
+4481482175;[Jurídico] Analista De Dados Júnior - Legal Ops;Negócios / Produto;TOTVS;On-Site;São Paulo;SP;26/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;297
+4371670774;Banco De Talentos Para Desenvolvedor(A) De Dados;Desenvolvimento;Hubify - Marketing Digital de Performance;On-Site;Mogi das Cruzes;SP;12/02/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dados.xlsx;298
+4481387165;Mid-Level Software Engineer (Data Solutions) - Indaiatuba/Sp;Engenharia de Software;John Deere;On-Site;Indaiatuba;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;299
+4443433669;Engenheiro De Dados Sênior/Especialista;Banco de Dados;CERC;On-Site;São Paulo;SP;22/07/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;300
+4483245531;Engenheiro De Dados Pl;Banco de Dados;Target Software - Technology Solutions;On-Site;Não informada (Grande SP);SP;26/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;301
+4475247567;Consultor(A) De Dados — Revenue Management;Negócios / Produto;Cruzeiro do Sul Educacional;On-Site;São Paulo;SP;31/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;302
+4484890380;Analista De Dados;Negócios / Produto;iMile Delivery;On-Site;Barueri;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;303
+4479105751;Senior Applied Data Scientist;Engenharia de Software;Belvo;On-Site;São Paulo;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;304
+4485269766;Analista De Dados Pleno;Negócios / Produto;Staffer;On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;305
+4344888085;Especialista Em Data Science - Business Development;Engenharia de Software;Shopee;On-Site;São Paulo;SP;22/07/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;306
+4483815475;Senior Manager Data & Analytics;Gestão;Blip;On-Site;São Paulo;SP;31/10/2026;sábado;20.097,00;540,00%;Bruto_jobs_dados.xlsx;307
+4478616833;Analista De Business Intelligence (Bi);Negócios / Produto;Odebrecht Engenharia & Construção;On-Site;São Paulo;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;308
+4463616391;Cientista De Dados Pleno;Engenharia de Software;Avanade;On-Site;São Paulo;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;309
+4469935819;Engenheiro(A) De Dados;Banco de Dados;Jump;On-Site;São Paulo;SP;21/09/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;310
+4479425797;Analista De Dados Sênior (Data & Analytics) (Acessível Também Para Pessoas Com Deficiência);Negócios / Produto;GOL Linhas Aéreas;On-Site;São Paulo;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;311
+4477872269;Senior Data Engineer;Banco de Dados;Varsity Tutors, a Nerdy Company;On-Site;São Paulo;SP;09/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;312
+4463558979;Especialista Estratégia De Ia;Engenharia de Software;Riachuelo;On-Site;São Paulo;SP;08/09/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;313
+4472595810;Especialista De Dados;Negócios / Produto;Banco Pine;On-Site;São Paulo;SP;01/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;314
+4479441932;Analista De Dados E Ia Sênior (Fp&A);Engenharia de Software;B3;On-Site;São Paulo;SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;315
+4479332013;Analista De Engenharia De Analytics;Engenharia de Software;Accenture Brasil;On-Site;São Paulo;SP;16/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;316
+4477193680;Engenharia De Dados Sênior (Aws) | Híbrido/Sp - 136501;Banco de Dados;GFT Brasil;Hybrid;São Paulo;SP;08/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;317
+4454414858;Senior Data Analyst - Compliance;Negócios / Produto;Wise;On-Site;São Paulo;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;318
+4482762078;Consultor De Dados - Petz Holding;Negócios / Produto;Petz;On-Site;São Paulo;SP;24/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;319
+4478171938;Analytics Engineer - Vaga Exclusiva Para Pcd;Banco de Dados;DoorDash;On-Site;São Paulo;SP;14/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;320
+4437005194;Engenheiros De Dados (Databricks);Banco de Dados;Accenture Brasil;On-Site;São Paulo;SP;24/10/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;322
+4471454282;Analista De Crm Analytics - Pleno;Negócios / Produto;Digio;On-Site;Barueri;SP;24/09/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;323
+4466146405;Assistente De Bi;Negócios / Produto;Adsplay;On-Site;São Paulo;SP;14/09/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;324
+4480579072;Cientista De Dados -Pl;Engenharia de Software;Stefanini Brasil;On-Site;Osasco;SP;16/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;326
+4484206671;Coordenador(A) De Dados;Gestão;STRADA;On-Site;São Paulo;SP;27/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;327
+4475611627;Analista Dados Pl | Foco Em Planejamento Comercial;Negócios / Produto;Honda Brasil;On-Site;São Paulo;SP;10/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;328
+4477069773;Analista De Dados E Inteligência Setorial Pleno;Negócios / Produto;APAS - Associação Paulista de Supermercados;On-Site;São Paulo;SP;15/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;329
+4464865338;Senior Clinical Data Manager (Remote - Brazil);Negócios / Produto;MMS;Remote;São Paulo;SP;11/09/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;330
+4482066425;Assistente De Power Bi (Guaianazes);Negócios / Produto;Empório do Líder;On-Site;Não informada (Grande SP);SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;331
+4484564291;Analista De Prevenção A Fraude Júnior;Negócios / Produto;Dafiti;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;332
+4457358747;Principal Data Engineer I - Tech Ecosystem;Banco de Dados;McKinsey & Company;On-Site;São Paulo;SP;25/10/2026;domingo;9.435,00;253,00%;Bruto_jobs_dados.xlsx;333
+4483134705;Fraud Data Analyst;Negócios / Produto;Incognia;On-Site;São Paulo;SP;28/09/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;334
+4479536512;Data Platform Manager;Gestão;Integrity Recruitment Group;On-Site;Barueri;SP;14/10/2026;quarta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;335
+4443084171;Ger. Ciência De Dados;Engenharia de Software;Bunge;On-Site;São Paulo;SP;14/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;336
+4477724130;Especialista De Dados - São Paulo/Sp;Negócios / Produto;EuroChem Brasil;On-Site;São Paulo;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;337
+4473681470;Analista Sênior De Pricing Para Empréstimos- Mercado Pago;Negócios / Produto;Mercado Livre Brasil;On-Site;Osasco;SP;05/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;338
+4474614900;Analista De Dados Pleno | Holding;Negócios / Produto;JHSF;On-Site;São Paulo;SP;05/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;339
+4459842429;Analista Sênior De Engenharia De Dados E Ia;Banco de Dados;Itaú Unibanco;On-Site;São Paulo;SP;09/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;341
+4481472927;Analista De Informações Gerenciais;Negócios / Produto;Orizon;On-Site;Barueri;SP;26/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;343
+4445153880;Analista De Dados Júnior;Negócios / Produto;Housi;On-Site;São Paulo;SP;27/07/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;344
+4480094911;Engenheiro De Dados Pleno;Banco de Dados;Biolab & Co;On-Site;São Paulo;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;345
+4477721190;Analista De Dados Pleno - São Paulo/Sp;Negócios / Produto;EuroChem Brasil;On-Site;São Paulo;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;347
+4476960377;Data Scientist (Customer Interactions) Iii;Engenharia de Software;Santander Brasil;On-Site;São Paulo;SP;29/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;348
+4479702476;Consultor De Dados - Revenue Management;Negócios / Produto;Cruzeiro do Sul Educacional;On-Site;São Paulo;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;349
+4477719833;Gerente Junior De Data & Analytics;Gestão;Kimberly-Clark;On-Site;São Paulo;SP;16/10/2026;sexta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;350
+4483424020;Especialista De Dados E Ia;Banco de Dados;Insper Instituto de Ensino e Pesquisa;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;351
+4471763094;Pessoa Analista De Advanced Analytics Júnior;Negócios / Produto;credsystem;On-Site;Barueri;SP;29/09/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;352
+4474414725;Coordenador Data Analytics;Gestão;Martin Brower Brasil;On-Site;Osasco;SP;15/10/2026;quinta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;353
+4467942760;Senior Developer - Business Intelligence;Desenvolvimento;Wesco;On-Site;São Paulo;SP;29/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dados.xlsx;354
+4470898218;Analista De Materiais Jr;Negócios / Produto;Diebold Nixdorf;On-Site;Osasco;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;355
+4475076533;Analista De Dados - Wa / Bi;Negócios / Produto;Serena;On-Site;São Paulo;SP;24/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;356
+4472965983;Analista De Dados Pleno (Databricks);Negócios / Produto;B3;On-Site;São Paulo;SP;01/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;357
+4483050312;Cientista De Dados Sr.;Engenharia de Software;Virtsel Tecnologia;On-Site;São Paulo;SP;29/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;358
+4474753692;Analista De Marketing Analytics & Bi Sênior;Negócios / Produto;Cinemark Brasil;On-Site;São Paulo;SP;02/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;359
+4484139518;Coordenador(A) De Arquitetura E Governança De Dados;Gestão;Lefosse;On-Site;São Paulo;SP;28/10/2026;quarta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;360
+4456288506;Data Scientist;Engenharia de Software;Provenir;On-Site;São Paulo;SP;26/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;361
+4483804052;Senior Clinical Data Manager;Negócios / Produto;Precision For Medicine;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;362
+4474493509;Engenheiro De Dados Pleno Ii;Banco de Dados;VML Enterprise Solutions;On-Site;São Paulo;SP;08/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;363
+4449437427;Analista De Dados Pleno;Negócios / Produto;Monee;On-Site;São Paulo;SP;05/08/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;364
+4465097228;Engenheiro De Dados Pleno;Banco de Dados;STRADA;On-Site;São Paulo;SP;09/09/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;365
+4437336222;Analise De Dados Sênior| Operações;Negócios / Produto;Shopee;On-Site;São Paulo;SP;25/10/2026;domingo;7.041,00;189,00%;Bruto_jobs_dados.xlsx;366
+4484981532;Revenue Management Analyst;Negócios / Produto;99;On-Site;Não informada (Grande SP);SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;367
+4476109850;Principal Data Engineer;Banco de Dados;Bunge;On-Site;São Paulo;SP;27/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;368
+4450736523;Analista De Dados E Automação;Automação;ddCom Systems Ltda;On-Site;Barueri;SP;07/08/2026;sexta-feira;6.221,00;167,00%;Bruto_jobs_dados.xlsx;369
+4478652646;Solutions Engineer;Engenharia de Software;Databricks;On-Site;São Paulo;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;370
+4418834934;Senior Analytics Engineer;Banco de Dados;Acerto;On-Site;São Paulo;SP;09/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;371
+4483169458;Pessoa Engenheira De Dados Pleno/Sênior | Novos Projetos;Banco de Dados;BRQ Digital Solutions;On-Site;São Paulo;SP;23/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;372
+4476916169;Analista De Dados Sênior;Negócios / Produto;J&T Express Brasil;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;373
+4465006161;Engenheiro De Dados;Banco de Dados;Level 4 Solutions;On-Site;Não informada (Grande SP);SP;09/09/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;375
+4449213543;Staff Product Analytics;Negócios / Produto;Pravaler;On-Site;São Paulo;SP;11/10/2026;domingo;7.041,00;189,00%;Bruto_jobs_dados.xlsx;376
+4480086912;Pessoa Analista De Bi Junior;Negócios / Produto;WPP Media;On-Site;São Paulo;SP;23/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;377
+4481517098;Grupo Quintoandar| Growth Intelligence Specialist;Negócios / Produto;QuintoAndar;On-Site;São Paulo;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;378
+4454452284;Data Scientist - Predictive Maintenance;Engenharia de Software;Tractian;On-Site;São Paulo;SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;379
+4445217986;Analista De Dados Pleno - Afirmativa Pessoas Negras;Negócios / Produto;Monee;On-Site;São Paulo;SP;24/07/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;380
+4473681520;Analista De Inteligência De Mercado - Dados;Negócios / Produto;Rumo;On-Site;São Paulo;SP;05/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;381
+4474463412;Especialista De Inteligencia Clinico Operacional;Negócios / Produto;OdontoPrev;On-Site;Barueri;SP;07/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;382
+4485233229;Analista De Dados Pleno - [K2-559];Negócios / Produto;K2 Solutions;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;383
+4481536701;Analista De Dados Júnior;Negócios / Produto;VEJA7;On-Site;Não informada (Grande SP);SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;384
+4483891580;Cientista De Dados Pl.;Engenharia de Software;PagBank;On-Site;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;385
+4473069791;Analista De Engenharia De Dados Pleno (Microsoft Azure);Banco de Dados;DXC Technology;On-Site;São Bernardo do Campo;SP;20/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;386
+4480601620;Engenheiro De Dados Sênior;Banco de Dados;Biolab & Co;On-Site;São Paulo;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;387
+4475464809;Operador Data Center Produtos Cloud - Exclusiva Para Pessoas Com Deficiência;Suporte;Vivo (Telefônica Brasil);On-Site;Barueri;SP;07/10/2026;quarta-feira;2.373,00;64,00%;Bruto_jobs_dados.xlsx;388
+4484225021;Analista De Bi (São Paulo);Negócios / Produto;BYD Carreiras;On-Site;Não informada (Grande SP);SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;389
+4482541267;Assistente De Bi E Financial Modelling;Negócios / Produto;Sogest - A Management Company;On-Site;São Paulo;SP;26/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;390
+4480715576;Coordenador De Canais (Data & Analytics);Gestão;PagBank;On-Site;São Paulo;SP;20/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;391
+4484231682;Analista De Governança De Dados;Negócios / Produto;FOURSYS;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;392
+4468923487;Consulting Associate - Business Intelligence;Negócios / Produto;ERM;On-Site;São Paulo;SP;22/09/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;393
+4480181360;Tech Team Leader De Data Science & Ai;Engenharia de Software;Falconi;On-Site;São Paulo;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;394
+4475037218;Analista De Dados Pleno;Negócios / Produto;Avenida;On-Site;São Paulo;SP;02/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;395
+4478179552;Engenheiro De Dados Sênior;Banco de Dados;Grupo Mooven;On-Site;Barueri;SP;13/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;396
+4481887387;Analista De Bi;Negócios / Produto;Confidencial;On-Site;Embu das Artes;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;397
+4477442748;Cientista De Dados Sr - Modelagem De Crédito Veículos;Engenharia de Software;BTG Pactual;On-Site;São Paulo;SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;398
+4481627450;Principal Engineer - Databricks;Engenharia de Software;Ideen;On-Site;São Paulo;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;399
+4472821449;Dataops Engineer;Banco de Dados;Mars;On-Site;Guararema;SP;23/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;400
+4294691134;Senior Data Scientist - Fluent English;Engenharia de Software;Artefact;On-Site;Não informada (Grande SP);SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;401
+4474412566;Tech Lead Ii - Engenharia De Dados | São Paulo/Sp;Banco de Dados;Omie;On-Site;São Paulo;SP;06/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;402
+4484465891;Data Engineer - Remote Work;Banco de Dados;INDI Staffing Services;Remote;Guarulhos;SP;28/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;403
+4479115846;Data Architect Id89367;Arquitetura;AgileEngine;On-Site;São Paulo;SP;14/10/2026;quarta-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;404
+4481193040;Analista De Strategic Market Intelligence;Negócios / Produto;Scanntech Brasil;On-Site;São Paulo;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;405
+4481284861;Data Scientist Iii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;407
+4481795567;Data Scientist Ii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;408
+4462565798;Analista De Dados Pleno - Retail Media;Negócios / Produto;Serasa Experian;On-Site;São Paulo;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;409
+4473568095;Analista De Dados Sênior - Riscos De Crédito;Negócios / Produto;Porto;On-Site;São Paulo;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;410
+4480192056;Data Scientist Ii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;411
+4479364657;Gerente De Forensic Data Analytics;Gestão;KPMG Brazil;On-Site;São Paulo;SP;15/10/2026;quinta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;412
+4482131853;Data Scientist Iii;Engenharia de Software;Banco Bradesco;On-Site;São Paulo;SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;413
+4476359886;Assistente De Dados;Negócios / Produto;Jobbol;On-Site;São Paulo;SP;06/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;414
+4473680066;Engenharia De Dados Sênior | Híbrida 136504;Banco de Dados;GFT Brasil;On-Site;São Paulo;SP;05/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;415
+4479076307;Engenheiro(A) De Dados Pleno | Python & Pyspark;Banco de Dados;Avanade;On-Site;São Paulo;SP;13/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;416
+4481259618;Analytics Engineer Pleno - Crm;Banco de Dados;Serasa Experian;On-Site;São Paulo;SP;19/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;417
+4480176499;Data Scientist Pl;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;418
+4484795411;Engenheiro De Dados Sênior;Banco de Dados;Jobbol;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;419
+4470015561;Engenheiro De Dados (Streaming);Banco de Dados;Jump;On-Site;São Paulo;SP;24/09/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;420
+4476973830;Cientista Dados Especialista;Negócios / Produto;Stefanini Brasil;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;421
+4481292679;Business Intelligence Iii;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;422
+4478612768;Cientista De Dados Sr;Engenharia de Software;EY;On-Site;São Paulo;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;424
+4480085245;Cientista De Dados Sr;Engenharia de Software;EY;On-Site;São Paulo;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;425
+4485384884;Engenheiro(A) De Dados Junior;Banco de Dados;Avanade;On-Site;São Paulo;SP;30/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;426
+4481796599;Data Scientist Manager - Validação De Estratégias De Crédito;Gestão;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;427
+4483177120;Data Scientist Ii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;428
+4483176148;Data Scientist Ii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;429
+4479224326;Engenheiro (A) De Dados Sênior;Banco de Dados;Porto;On-Site;São Paulo;SP;13/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;430
+4484277697;Business Intelligence Ii - Eficiência De Canais;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;431
+4474342886;Senior Microsoft Fabric Architect - Remote Work | Ref#305123;Arquitetura;BairesDev;Remote;São Paulo;SP;13/10/2026;terça-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;432
+4480578002;Engenheiro De Dados Sr;Banco de Dados;Stefanini Brasil;On-Site;Osasco;SP;16/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;433
+4479025510;Analista De Dados De Negócios;Negócios / Produto;Jobbol;On-Site;Jundiaí;SP;13/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;434
+4477877914;Business Analytics Sênior;Negócios / Produto;Porto;On-Site;São Paulo;SP;31/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;435
+4423691502;Cientista De Dados Sr. - Banco De Talentos;Engenharia de Software;EY;On-Site;São Paulo;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;436
+4466413959;Engenheiro De Dados;Banco de Dados;Jobbol;On-Site;São Paulo;SP;12/09/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;437
+4485240627;Gerente De Analytics & Negócio;Gestão;Serasa Experian;On-Site;São Paulo;SP;29/10/2026;quinta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;438
+4482808450;Engenheiro Analítico;Engenharia de Software;Jobbol;On-Site;São Paulo;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;439
+4481729896;Business Intelligence Iii;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;440
+4480396630;Analista Bi Sr;Negócios / Produto;Stefanini Brasil;On-Site;Taboão da Serra;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;441
+4443090004;Senior Data Engineer;Banco de Dados;Bunge;On-Site;São Paulo;SP;15/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;442
+4473296530;Analista De Governança E Prevenção Sênior;Negócios / Produto;Porto;On-Site;São Paulo;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;443
+4469379347;Cientista De Dados Pl I;Engenharia de Software;VML Enterprise Solutions;On-Site;São Paulo;SP;24/09/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;444
+4471116212;Engenheiro De Dados Sênior;Banco de Dados;Jobbol;On-Site;São Paulo;SP;23/09/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;445
+4467881745;Analista De Dados Pleno | São Paulo;Negócios / Produto;Shopee;On-Site;São Paulo;SP;18/09/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;446
+4480085303;Analista Pleno De Transportes - Mercado Envios;Negócios / Produto;Mercado Livre Brasil;On-Site;Osasco;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;447
+4480071492;Analista Pleno De Transportes - Mercado Envios;Negócios / Produto;Mercado Livre Brasil;On-Site;Osasco;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;448
+4434129696;Analytics Engineer Specialist;Banco de Dados;Shopee;On-Site;São Paulo;SP;22/07/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;449
+4464569891;Engenheiro (A) De Dados Cloud Junior;Banco de Dados;EY;On-Site;São Paulo;SP;24/10/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;450
+4483085709;Analista Sênior De Indicadores E Conformidade Operacional - Mercado Envios;Negócios / Produto;Mercado Livre Brasil;On-Site;Osasco;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;451
+4481104441;Engenheiro(A) De Dados Sênior - Sql / Inglês Fluente;Banco de Dados;Accenture Brasil;On-Site;Barueri;SP;21/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;452
+4438022285;Supervisor De Inteligência De Mercado;Gestão;EY;On-Site;São Paulo;SP;30/10/2026;sexta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;453
+4424817708;Cientista De Dados - Sênior;Engenharia de Software;EY;On-Site;São Paulo;SP;18/10/2026;domingo;13.683,00;368,00%;Bruto_jobs_dados.xlsx;455
+4446840384;Engenheiro(A) De Dados | Python & Sql;Banco de Dados;Avanade;On-Site;São Paulo;SP;22/09/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;456
+4479215811;Data Science Manager - Pricing;Gestão;Banco Bradesco;On-Site;Osasco;SP;13/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;457
+4482167290;Engenheiro De Dados Sr;Banco de Dados;Stefanini Brasil;On-Site;Osasco;SP;21/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;458
+4473012039;Analytics Engineer Pleno - Crm;Banco de Dados;Serasa Experian;On-Site;São Paulo;SP;20/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;459
+4470046979;Analista De Crm Sr. (Dados);Negócios / Produto;PagBank;On-Site;São Paulo;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;460
+4434348644;Especialista De Dados;Negócios / Produto;Shopee;On-Site;São Paulo;SP;22/07/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;461
+4483301812;Engenheiro De Dados;Banco de Dados;Avanade;On-Site;São Paulo;SP;24/10/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;462
+4473988078;Data Scientist Specialist;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;464
+4479718615;Data Scientist Specialist;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;14/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;465
+4474490795;Engenheiro (A) De Dados Cloud Sr;Banco de Dados;EY;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;466
+4465821465;Engenheiro De Dados Sênior;Banco de Dados;4DF Connect;On-Site;São Paulo;SP;10/09/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;467
+4387626325;Engenheiro De Dados Sr;Banco de Dados;4DF Connect;On-Site;São Paulo;SP;18/03/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;468
+4480045266;Analista De Bi Sênior (Power Bi);Negócios / Produto;Cruzeiro do Sul Educacional;On-Site;São Paulo;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;469
+4478673666;Analista De Bi Pl;Negócios / Produto;Fundação Cásper Líbero;On-Site;São Paulo;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;470
+4477074939;Middle Data Engineer;Banco de Dados;Sigma Software;On-Site;Não informada (Grande SP);SP;15/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;471
+4474858082;Senior Data Analyst - Asset Management & Market Data;Negócios / Produto;EY;On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;472
+4478151579;Data Engineering Manager;Gestão;Félix;On-Site;São Paulo;SP;13/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;473
+4441086282;Analista De Estratégia E Dados Sênior;Negócios / Produto;Cielo;On-Site;Barueri;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;474
+4484222608;Pessoa Analista De Dados Sênior;Negócios / Produto;Instituto Todos pela Saúde (ITpS);On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;475
+4485226029;Analista De Dados E Negócios Sr.;Negócios / Produto;Porto;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;476
+4473793648;Especialista De Bi | Nível 2;Negócios / Produto;Redebrasil Gestão de Ativos;On-Site;São Paulo;SP;30/09/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;477
+4475103681;Cientista De Dados Jr.;Engenharia de Software;PagBank;On-Site;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;479
+4482557113;Especialista De Strategic Planning & Analytics – Cx;Negócios / Produto;Hotmart;On-Site;São Paulo;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;480
+4484749590;Analista De Dados Pleno - Jd Paulista (583800);Negócios / Produto;GPA;On-Site;São Paulo;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;481
+4482560806;[Estratégia Comercial] Coordenação De Inteligência Artificial Aplicada A Vendas;Engenharia de Software;TOTVS;On-Site;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;482
+4436792473;Data Scientist - Fluent English;Engenharia de Software;Artefact;On-Site;Não informada (Grande SP);SP;18/10/2026;domingo;13.683,00;368,00%;Bruto_jobs_dados.xlsx;484
+4477737560;Analista De Dados;Negócios / Produto;Volkswagen Group Services - South America;On-Site;São Paulo;SP;17/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;485
+4482748622;Analista De Dados Pleno Ii (Retail Media) - Remoto;Negócios / Produto;Corebiz;Remote;São Paulo;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;487
+4478115373;Engenheiro (A) De Dados | Sênior;Banco de Dados;Solfácil;On-Site;Não informada (Grande SP);SP;23/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;488
+4481744942;Grupo Quintoandar| Growth Intelligence Specialist | Market Intelligence;Negócios / Produto;QuintoAndar;On-Site;São Paulo;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;489
+4474865197;Analista De Dados Pleno - Data Platform E Cloud;Banco de Dados;Surf;On-Site;São Paulo;SP;08/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;490
+4482559805;Especialista Em Ciência De Dados;Engenharia de Software;Omni&Co;On-Site;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;491
+4484591736;Data Owner - Sênior - Migração De Dados Sap S/4Hana;Desenvolvimento;Tec2Cloud;On-Site;Barueri;SP;30/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dados.xlsx;492
+4467714169;Analista De Dados - Cx;Negócios / Produto;SOW;On-Site;Não informada (Grande SP);SP;15/09/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;493
+4475992423;Cientista De Dados Pleno (Modelagem De Crédito);Engenharia de Software;Equifax;On-Site;Barueri;SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;494
+4479627827;Analytics Engineer Associate | Business Intelligence;Banco de Dados;Shopee;On-Site;São Paulo;SP;16/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;495
+4483112733;Especialista Em Analytics E Inteligência Artificial;Engenharia de Software;Aché Laboratórios;On-Site;Guarulhos;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;496
+4476650676;Analista De Inteligência Comercial Pl;Negócios / Produto;Arcos Dorados;On-Site;Barueri;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;497
+4449093724;Analista De Crm Sr;Negócios / Produto;Banco Bradesco;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;498
+4427645858;Analista De Bi;Negócios / Produto;abler Vagas;On-Site;Jundiaí;SP;11/06/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;499
+4448741260;Analista De Dados Comerciais;Negócios / Produto;Eme Comercial;On-Site;Itapecerica da Serra;SP;07/08/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;501
+4483910430;Analista De Data Analytics Sênior;Negócios / Produto;Assaí Atacadista;On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;502
+4473757365;Consultor Marketing - Analytic;Negócios / Produto;Assaí Atacadista;On-Site;São Paulo;SP;30/09/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;503
+4448147663;Banco De Talentos | Business Intelligence;Negócios / Produto;XP Inc.;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;504
+4480704619;Engenheiro (A) De Dados Cloud Pleno;Banco de Dados;EY;On-Site;São Paulo;SP;20/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;505
+4385883934;Data Analyst Ii;Negócios / Produto;Brex;On-Site;São Paulo;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;506
+4481135109;Analista De Dados;Negócios / Produto;Enkel TI;On-Site;Barueri;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;507
+4481452212;Especialista De Modelagem E Precificação;Negócios / Produto;Tokio Marine Seguradora;On-Site;São Paulo;SP;26/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;508
+4479111902;Data Architect Id89367;Arquitetura;AgileEngine;On-Site;São Bernardo do Campo;SP;14/10/2026;quarta-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;509
+4483743802;Cientista De Dados Sênior;Engenharia de Software;Jobbol;On-Site;São Paulo;SP;26/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;510
+4464982227;Vagas Exclusiva Para Pessoas Com Deficiência I Área Big Data (Banco De Talentos);Negócios / Produto;Vivo (Telefônica Brasil);On-Site;São Paulo;SP;09/09/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;511
+4470007984;Data Analyst;Negócios / Produto;Picnic;On-Site;São Paulo;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;512
+4447406828;Engenheiro (A) De Dados Sênior;Banco de Dados;CRAF Tech;On-Site;São Paulo;SP;01/08/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;513
+4472784428;Manager Data Engineer;Gestão;Avanade;On-Site;São Paulo;SP;20/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;514
+4466590086;Cientista De Dados Pleno | Data Scientist — Forecast & Analytics (São Paulo);Engenharia de Software;Shopee;On-Site;São Paulo;SP;15/09/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;515
+4480077482;Data Science Manager - Pricing;Gestão;Banco Bradesco;On-Site;Osasco;SP;22/10/2026;quinta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;516
+4440875139;Engenheiro(A) De Dados Pleno;Banco de Dados;QSOFT;On-Site;São Paulo;SP;14/07/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;517
+4480657096;Analista De Inteligencia De Mercado Pleno - São Paulo;Negócios / Produto;Vigor;On-Site;São Paulo;SP;23/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;518
+4473818064;Data & Intelligence Specialist – Sports Rights;Negócios / Produto;LiveMode;On-Site;São Paulo;SP;02/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;519
+4475444816;Senior Data Engineer Id88015;Banco de Dados;AgileEngine;On-Site;São Paulo;SP;05/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;520
+4445784016;Data Scientist;Engenharia de Software;Zurich Insurance;On-Site;São Paulo;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;521
+4482819028;Analista De Dados Pleno Ii - Remoto;Negócios / Produto;Corebiz;Remote;São Paulo;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;522
+4351462062;Solutions Architect;Arquitetura;Databricks;On-Site;São Paulo;SP;12/10/2026;segunda-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;523
+4481963060;Especialista De Inteligência No Varejo | Farma Varejo;Negócios / Produto;Scanntech Brasil;On-Site;São Paulo;SP;23/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;524
+4429482540;Especialista Master Data;Negócios / Produto;Caldic LATAM;On-Site;São Paulo;SP;23/06/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;525
+4471439762;Analista De Engenharia De Dados & Bi;Banco de Dados;Icomm Group | Shop2gether & OQVestir;On-Site;São Paulo;SP;24/09/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;526
+4482229260;Principal Data Scientist - Ai;Engenharia de Software;GEP Worldwide;On-Site;São Paulo;SP;27/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;528
+4480697600;Analista Sênior De Transportes - Mercado Envios;Negócios / Produto;Mercado Livre Brasil;On-Site;Osasco;SP;23/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;529
+4484466833;Analista De Governança De Dados Sênior - Híbrido;Negócios / Produto;FOURSYS;Hybrid;Barueri;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;530
+4485226003;Analista De Prevenção A Fraude;Negócios / Produto;Empresa Confidencial;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;531
+4482752711;Cientista De Dados;Engenharia de Software;Jobbol;On-Site;São Paulo;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;532
+4473348096;Analista De Dados Pleno | Business Intelligence;Negócios / Produto;AutoZone;On-Site;São Paulo;SP;02/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;533
+4479226865;Analista De Planejamento E Performance | Sales Operations - Afirmativa Pcd;Negócios / Produto;QuintoAndar;On-Site;São Paulo;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;535
+4480272035;Engenheiro(A) De Dados Junior (Time De Riscos);Banco de Dados;CERC;On-Site;São Paulo;SP;24/09/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;536
+4481303318;Engenheiro De Dados;Banco de Dados;Westwing Brasil;On-Site;São Paulo;SP;21/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;537
+4477318816;Data Architect Ii (Globaltec) - 11923;Arquitetura;Senior Sistemas;On-Site;Itu;SP;15/10/2026;quinta-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;538
+4426469280;Pessoa Analista De Dados Pleno - App;Negócios / Produto;WPP Media;On-Site;São Paulo;SP;23/06/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;539
+4476492286;Mid Data Engineer;Banco de Dados;Lean Tech, a Lean Solutions Group Division;On-Site;São Paulo;SP;13/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;540
+4485685850;Risk Data Scientist Ii;Engenharia de Software;Santander Brasil;On-Site;São Paulo;SP;31/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;541
+4473197705;Especialista De Dados & Ia;Engenharia de Software;Apsen Farmacêutica;On-Site;São Paulo;SP;03/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;542
+4481812287;Pessoa Supervisora De Bi (Mensuração) - Mídia & Bi;Gestão;WPP Media;On-Site;São Paulo;SP;26/10/2026;segunda-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;543
+4484710374;Especialista Em Engenharia De Dados;Banco de Dados;Be8;On-Site;São Paulo;SP;28/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;545
+4484517890;Analista Informações Gerenciais Sr;Negócios / Produto;Care Plus;On-Site;Barueri;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;546
+4475413133;Coordenador De Bi;Gestão;W3haus;On-Site;São Paulo;SP;07/10/2026;quarta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;548
+4481149189;Especialista De Analytics Engineer | Crédito Varejo;Banco de Dados;Banco Pine;On-Site;São Paulo;SP;21/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;549
+4469253109;Analista De Planejamento Comercial I;Negócios / Produto;Ânima Educação;On-Site;São Paulo;SP;18/09/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;550
+4476902673;Coordenador De Inteligência Comercial;Gestão;Vivara;On-Site;São Paulo;SP;07/10/2026;quarta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;551
+4456799237;Analista De Dados - Financiamento De Veículos;Negócios / Produto;BTG Pactual;On-Site;São Paulo;SP;24/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;552
+4482578015;Analista De Inteligência De Dados - Logística;Negócios / Produto;Motz;On-Site;São Paulo;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;553
+4477010846;Analista De People Analytics Pleno;Negócios / Produto;C&A Brasil;On-Site;Barueri;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;554
+4480256580;Machine Learning Engineer;Engenharia de Software;Docusign;On-Site;São Paulo;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;555
+4485127065;Analista De Dados;Negócios / Produto;Gradus;On-Site;São Paulo;SP;31/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;556
+4468804757;Senior Data Engineer;Banco de Dados;Artefact;On-Site;Não informada (Grande SP);SP;31/10/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;558
+4483058910;Engenheiro(A) De Plataforma De Dados Sênior (Foco Em Databricks);Banco de Dados;B3;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;559
+4476926310;Cientista De Dados;Engenharia de Software;Tata Consultancy Services;On-Site;São Paulo;SP;07/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;560
+4480072377;Analista De Governança De Dados Sênior;Negócios / Produto;Cruzeiro do Sul Educacional;On-Site;São Paulo;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;561
+4480067183;Analista De People Analytics Sr;Negócios / Produto;Lhg Mining;On-Site;São Paulo;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;562
+4483715827;Data & Analytics Spec I - Modelos Estatísticos;Negócios / Produto;Santander Brasil;On-Site;São Paulo;SP;26/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;563
+4482141322;Engenheiro De Dados / Devops - Sênior;Banco de Dados;QSOFT;On-Site;São Paulo;SP;21/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;564
+4463929189;[Tech] Especialista Em Engenharia De Software Com Análise De Dados - Python/Inteligência Artificial;Engenharia de Software;TOTVS;On-Site;São Paulo;SP;10/09/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;565
+4470620216;Analista Performance Sênior - Befly;Negócios / Produto;BeFly;On-Site;São Paulo;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;567
+4479320469;Analista De Business Intelligence (Bi) Júnior;Negócios / Produto;Razac;On-Site;São Paulo;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;569
+4485616437;Analista De Dados Pleno;Negócios / Produto;Grupo Petz Cobasi;On-Site;Barueri;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;570
+4440414162;Solutions Architect - Lakebase;Arquitetura;Databricks;On-Site;São Paulo;SP;15/10/2026;quinta-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;571
+4485234203;8381 - Engenheiro(A) De Plataforma De Dados Sênior (Foco Em Databricks);Banco de Dados;B3;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;572
+4483813968;Analista De Dados Sr;Negócios / Produto;Banco Pine;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;573
+4455280370;Especialista De Inteligência No Varejo - São Paulo/Sp;Negócios / Produto;Scanntech Brasil;On-Site;São Paulo;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;574
+4442999430;Senior Data Scientist Ii;Engenharia de Software;RELX;On-Site;São Paulo;SP;22/07/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;575
+4483170328;Analista De Power Bi Pleno;Negócios / Produto;DHL Supply Chain;On-Site;Barueri;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;576
+4449916940;Fraud Prevention Analyst Ii;Negócios / Produto;dLocal;On-Site;Não informada (Grande SP);SP;05/08/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;577
+4476558176;Analista De Rtm Sr;Negócios / Produto;JDE Peet's;On-Site;Barueri;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;578
+4426582802;Oracle Analytics Lead;Negócios / Produto;Peloton Consulting Group;On-Site;Não informada (Grande SP);SP;18/10/2026;domingo;7.041,00;189,00%;Bruto_jobs_dados.xlsx;579
+4484541090;Senior Data Engineer - Br-Sao Paulo;Banco de Dados;Globant;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;580
+4474485425;Analista Sênior Informações E Performance;Negócios / Produto;Coca-Cola FEMSA;On-Site;São Paulo;SP;07/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;581
+4484858491;Latin America (Alac) Aiml Data Quality & Governance Scientist;Engenharia de Software;Apple;On-Site;Não informada (Grande SP);SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;582
+4455044610;Data Science Consultant Sao Paulo;Engenharia de Software;Management Solutions;On-Site;São Paulo;SP;22/08/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;583
+4415699380;Data Engineer;Banco de Dados;Perform;On-Site;São Paulo;SP;17/10/2026;sábado;9.435,00;253,00%;Bruto_jobs_dados.xlsx;585
+4483404846;Data Engineer – Data Platform;Banco de Dados;ExitLag;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;586
+4482005300;Analista De Planejamento Pl.;Negócios / Produto;DHL Supply Chain;On-Site;Jandira;SP;26/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;587
+4476979431;Analista Estratégia De Cobrança Sr;Negócios / Produto;Stefanini Brasil;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;588
+4472970270;Decision Analytics Analyst;Negócios / Produto;ZS;On-Site;São Paulo;SP;01/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;589
+4476455499;Cientista De Dados Sênior;Engenharia de Software;Itaú Unibanco;On-Site;São Paulo;SP;13/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;591
+4479238864;Especialista Portfolio Management;Negócios / Produto;MetLife;On-Site;Não informada (Grande SP);SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;592
+4477843281;Sr Data Migration / Data Quality - Com Inglês - Remoto;Negócios / Produto;Capco;Remote;São Paulo;SP;31/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;593
+4440068450;Intermediate Data Analyst;Negócios / Produto;BEES;On-Site;São Paulo;SP;13/07/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;594
+4446805762;Workday Reporting & Analytics Lead;Negócios / Produto;Edelman;On-Site;São Paulo;SP;23/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;595
+4474255073;Analista De Inteligência De Espaço Sênior;Negócios / Produto;Riachuelo;On-Site;São Paulo;SP;05/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;596
+4472171177;Analista De Inteligência E Evolução Conversacional | Afya Sp;Engenharia de Software;Afya;On-Site;São Paulo;SP;01/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;597
+4461281244;Sr Data Scientist;Engenharia de Software;Bunge;On-Site;São Paulo;SP;14/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;598
+4471634128;Senior Regulatory Data Analyst;Negócios / Produto;Givaudan;On-Site;São Paulo;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;599
+4470513133;Analista De Marketing De Produtos Pl - São Paulo/Sp;Negócios / Produto;PremieRpet;On-Site;São Paulo;SP;25/09/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;600
+4483410018;Analista De Informações Gerenciais Jr.;Negócios / Produto;Poona Diabetes Centre - India;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;601
+4475219315;Especialista De People Analytics;Negócios / Produto;Elo;On-Site;São Paulo;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;602
+4446818972;Analista De Experiência Do Cliente;Negócios / Produto;ddCom Systems Ltda;On-Site;Barueri;SP;29/07/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;603
+4444759980;Analista De Dados Inteligência De Mercado E Negócios - São Paulo (Sp);Negócios / Produto;Hospcom Hospitalar;On-Site;São Paulo;SP;24/07/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;605
+4475721216;Analista De Planejamento Jr – Ia & Automação;Automação;Westwing Brasil;On-Site;São Paulo;SP;07/10/2026;quarta-feira;6.221,00;167,00%;Bruto_jobs_dados.xlsx;606
+4474842767;Consultor(A) De Análise De Dados;Negócios / Produto;SulAmérica;On-Site;São Paulo;SP;08/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;607
+4460106421;Analista De Dados Junior- São Paulo Ou Guarulhos - Gopouva;Negócios / Produto;Geniale Trade Innovated;On-Site;Guarulhos;SP;27/08/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;608
+4474843539;Assistente De Automação E Projetos - Mercado Envios;Automação;Mercado Livre Brasil;On-Site;Osasco;SP;08/10/2026;quinta-feira;6.221,00;167,00%;Bruto_jobs_dados.xlsx;609
+4485111533;Data Operations And Ai Solutions Developer;Banco de Dados;Syneos Health Communications;On-Site;Não informada (Grande SP);SP;30/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;610
+4473970877;Analista Pleno De Produtos E Soluções;Negócios / Produto;Neoenergia;On-Site;São Paulo;SP;31/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;611
+4481213645;Analista De Dados (Jurídico);Negócios / Produto;J&T Express Brasil;On-Site;São Paulo;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;612
+4453277680;Analista De Governança De Dados Pleno (São Paulo);Negócios / Produto;DUX Company;On-Site;São Paulo;SP;10/08/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;613
+4466682591;Analista Junior De Bi;Negócios / Produto;SUN PHARMA;On-Site;Barueri;SP;18/09/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;614
+4473831860;(Senior) Data Team Lead;Negócios / Produto;IQVIA;On-Site;São Paulo;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;615
+4483090728;Especialista De People Analytics;Negócios / Produto;Brasil TecPar;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;616
+4472852617;Engenheiro De Dados Sênior;Banco de Dados;levva;On-Site;São Paulo;SP;02/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;617
+4464933906;Cientista De Dados Pl.;Engenharia de Software;PagBank;On-Site;São Paulo;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;618
+4477022052;Analista De Dados & Analytics Sênior;Negócios / Produto;Itaú Unibanco;On-Site;São Paulo;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;620
+4437443913;Senior Data Scientist;Engenharia de Software;Bunge;On-Site;São Paulo;SP;24/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;621
+4472381269;Analista De Inovação Ii(São Paulo/Sp);Negócios / Produto;Sondotécnica Engenharia;On-Site;São Paulo;SP;01/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;622
+4468999454;Engenheiro(A) De Dados - Pleno;Banco de Dados;Just Solutions;On-Site;São Paulo;SP;23/09/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;623
+4474410577;Especialista De Business Analytics;Negócios / Produto;Bullla;On-Site;São Paulo;SP;06/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;624
+4443096011;Analista De Modelagem E Ia - Npl;Engenharia de Software;ARC4 - Gestão de Ativos;On-Site;São Paulo;SP;21/07/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;625
+4480446222;Business Intelligence Coordinator;Gestão;Lenovo;On-Site;Não informada (Grande SP);SP;20/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;626
+4484157968;Analista De Pricing Sr.;Negócios / Produto;PagBank;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;629
+4446926245;Pessoa Supervisora De Bi;Gestão;Publicis Groupe Brasil;On-Site;São Paulo;SP;25/10/2026;domingo;20.097,00;540,00%;Bruto_jobs_dados.xlsx;630
+4484869503;Latin America Aiml Data Scientist (Decision Intelligence);Engenharia de Software;Apple;On-Site;Não informada (Grande SP);SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;631
+4476464425;Analista Dados Pleno (Área Financeira);Negócios / Produto;Bullla;On-Site;São Paulo;SP;13/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;632
+4484019544;Analista De Dados;Negócios / Produto;Pedrinho Bancos;On-Site;Não informada (Grande SP);SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;633
+4482723001;Data Engineer;Banco de Dados;YouGov;On-Site;São Paulo;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;634
+4484856161;Salesforce Data 360 Architect;Arquitetura;LTM;On-Site;Não informada (Grande SP);SP;30/10/2026;sexta-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;635
+4483803060;Senior Clinical Data Manager;Negócios / Produto;Precision Medicine Group;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;636
+4483904748;Analista Performance;Negócios / Produto;Vero;On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;637
+4472204317;Analista De Dados;Negócios / Produto;abler Vagas;On-Site;São Paulo;SP;25/09/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;638
+4480522124;Analista De Precificação Pl;Negócios / Produto;Printi;On-Site;Barueri;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;639
+4481191240;Head Of Data Science;Gestão;Bain & Company;On-Site;Não informada (Grande SP);SP;22/10/2026;quinta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;640
+4451975982;Cientista De Dados | Btg Empresas;Engenharia de Software;BTG Pactual;On-Site;São Paulo;SP;16/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;641
+4479573469;Latam Sales Intelligence Specialist;Negócios / Produto;Informa Markets;On-Site;São Paulo;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;642
+4442912550;Arquiteto De Dados;Arquitetura;Jump;On-Site;São Paulo;SP;21/07/2026;terça-feira;14.873,00;400,00%;Bruto_jobs_dados.xlsx;643
+4479302161;Senior Associate Forensic Data Analytics;Negócios / Produto;KPMG Brazil;On-Site;São Paulo;SP;15/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;644
+4482551839;Data Engineer;Banco de Dados;EY;On-Site;São Paulo;SP;28/10/2026;quarta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;645
+4484704966;Business Intelligence Ii;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;646
+4481506125;Business Intelligence Specialist;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;647
+4482010107;Business Intelligence I;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;648
+4406664776;Data Engineer;Banco de Dados;Brex;On-Site;São Paulo;SP;19/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;649
+4475463017;Senior Data Engineer Id88015;Banco de Dados;AgileEngine;On-Site;São Bernardo do Campo;SP;05/10/2026;segunda-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;650
+4482642846;Analista De Dados E Automação Pleno | São Paulo;Automação;Shopee;On-Site;São Paulo;SP;24/10/2026;sábado;6.221,00;167,00%;Bruto_jobs_dados.xlsx;651
+4481639114;Consultor De Dados Sas Pleno;Negócios / Produto;EY;On-Site;São Paulo;SP;23/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;652
+4460205628;Coordenador De Análise De Dados | Operações;Gestão;Shopee;On-Site;São Paulo;SP;25/10/2026;domingo;20.097,00;540,00%;Bruto_jobs_dados.xlsx;653
+4466593794;Analista De Dados Sênior — Competitividade De Preço (São Paulo);Negócios / Produto;Shopee;On-Site;São Paulo;SP;16/09/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;654
+4475448426;Data & Analytics Developer Id90559;Desenvolvimento;AgileEngine;On-Site;São Paulo;SP;07/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dados.xlsx;655
+4426865670;Pessoa Engenheira De Dados Pleno;Banco de Dados;WPP Media;On-Site;São Paulo;SP;23/06/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;656
+4481222687;Business Intelligence Iii;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;657
+4479370319;Analista De Dados Pleno Automação;Automação;Shopee;On-Site;São Paulo;SP;16/10/2026;sexta-feira;6.221,00;167,00%;Bruto_jobs_dados.xlsx;658
+4294682896;Senior Data Scientist - Vaga Afirmativa Para Pessoas Lgbtqiapn+;Engenharia de Software;Artefact;On-Site;Não informada (Grande SP);SP;14/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;659
+4481288733;Business Inteligence Specialist;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;660
+4482180891;Analista De Dados Jr - Pcd;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;661
+4475446509;Data & Analytics Developer Id90559;Desenvolvimento;AgileEngine;On-Site;São Bernardo do Campo;SP;07/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dados.xlsx;662
+4475102100;Senior Data Engineer Id82269;Banco de Dados;AgileEngine;On-Site;São Paulo;SP;06/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;663
+4480128847;Senior Data Consultant Brazil;Negócios / Produto;Artefact;On-Site;Não informada (Grande SP);SP;15/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;664
+4481234287;Analista De Crm Sr;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;665
+4366854955;Analista Pleno De Dados - Planejamento Fullfilment;Negócios / Produto;Shopee;On-Site;São Paulo;SP;22/07/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;666
+4294685431;Senior Data Scientist - Vaga Afirmativa Para Mulheres Cis E Trans;Engenharia de Software;Artefact;On-Site;Não informada (Grande SP);SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;668
+4483820398;Analista De Pipeline (Data Steward);Negócios / Produto;KPMG Brazil;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;669
+4294680901;Senior Data Scientist - Vaga Afirmativa Para Pessoas Negras;Engenharia de Software;Artefact;On-Site;Não informada (Grande SP);SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;670
+4461988880;Gerente De Análise De Dados;Gestão;Shopee;On-Site;São Paulo;SP;04/09/2026;sexta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;671
+4450021091;Data Vis;Negócios / Produto;Jump;On-Site;São Paulo;SP;06/08/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;672
+4475100062;Senior Data Engineer Id82269;Banco de Dados;AgileEngine;On-Site;São Bernardo do Campo;SP;06/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;673
+4164126752;Analista De Dados Sênior | Logística;Negócios / Produto;Shopee;On-Site;São Paulo;SP;22/07/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;674
+4483091267;Pessoa Analista De Bi Pleno;Negócios / Produto;WPP Media;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;675
+4479233674;Grupo Quintoandar | Especialista De Performance & Analytics – Incentivos;Negócios / Produto;QuintoAndar;On-Site;São Paulo;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;676
+4485226065;Analista De Planejamento Jr;Negócios / Produto;DHL Supply Chain;On-Site;Jandira;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;677
+4301937393;Analista Pleno De Data & Analytics | Logistics;Negócios / Produto;Shopee;On-Site;São Paulo;SP;22/07/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;678
+4475050445;Analista Crm Pl;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;24/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;679
+4465235955;Analista Planejamento Jr;Negócios / Produto;Assaí Atacadista;On-Site;Cajamar;SP;14/09/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;680
+4436792474;Pessoa Cientista De Dados - Vaga Afirmativa Para Mulheres Cis E Trans;Engenharia de Software;Artefact;On-Site;Não informada (Grande SP);SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;681
+4483052186;Analista De Dados E Analytics Sênior (Afirmativa Para Mulheres);Negócios / Produto;Itaú Unibanco;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;682
+4473640932;Analista Pleno De Dados De Fp&A - Mercado Envios;Negócios / Produto;Mercado Livre Brasil;On-Site;Osasco;SP;05/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;683
+4474076148;Analista Sênior De Estratégia - Mercado Envios;Negócios / Produto;Mercado Livre Brasil;On-Site;Cajamar;SP;06/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;684
+4466120013;Analista De Dados Sr. (Driver Engagement) - São Paulo;Negócios / Produto;Shopee;On-Site;São Paulo;SP;14/09/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;685
+4436905068;Pessoa Cientista De Dados - Vaga Afirmativa Para Pessoas Lgbtqiapn+;Engenharia de Software;Artefact;On-Site;Não informada (Grande SP);SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;687
+4484549136;Analista Pleno De Planejamento De Distribuição (Drp);Negócios / Produto;Natura;On-Site;Cajamar;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;688
+4481212946;Analista Prevenção A Fraudes Sr;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;689
+4482137572;Analista De Riscos Sr;Negócios / Produto;Banco Bradesco;On-Site;Osasco;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;690
+4468165535;Senior Data Engineer - Fluent English;Banco de Dados;Artefact;On-Site;Não informada (Grande SP);SP;13/10/2026;terça-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;692
+4484724024;Analista De Power Bi Pleno;Negócios / Produto;DHL Supply Chain;On-Site;Barueri;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;694
+4474999947;Cientista De Dados Pl.;Engenharia de Software;PagBank;On-Site;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;695
+4444605596;Pessoa Supervisora De Bi;Gestão;Publicis Groupe Brasil;On-Site;São Paulo;SP;18/10/2026;domingo;20.097,00;540,00%;Bruto_jobs_dados.xlsx;696
+4483474939;Especialista De Eng. De Machine Learning;Engenharia de Software;Banco BBC;On-Site;São Paulo;SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;697
+4476495476;Assistente De Inteligência De Mercado;Negócios / Produto;MCassab Distribuição;On-Site;São Paulo;SP;13/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;698
+4472817723;Pessoa Engenheira De Dados Pl;Banco de Dados;Publicis Groupe Brasil;On-Site;São Paulo;SP;23/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;699
+4482164079;Analista De Dados - Foco Segurança E Saúde Ocupacional;Negócios / Produto;GrupoSC Distribuidora de Medicamentos;On-Site;São Paulo;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;700
+4480738680;Especialista Em Data Science E Analytics | Varejo;Engenharia de Software;Banco Pine;On-Site;São Paulo;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;701
+4469797250;Analista De Dados E Inteligência De Vendas - Guarulhos;Negócios / Produto;Toclog Transporte e Armazenagem;On-Site;Guarulhos;SP;24/09/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;702
+4482559835;Pessoa Analista De Data Analytics Pleno;Negócios / Produto;AlmapBBDO;On-Site;São Paulo;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;703
+4430299013;Sales Operations Analyst - São Paulo (Hybrid);Negócios / Produto;Mitel;Hybrid;São Paulo;SP;26/06/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;704
+4457629930;Ot Data Industrial Analytics Engineer;Banco de Dados;Indorama Ventures: Indovinya;On-Site;São Paulo;SP;30/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;705
+4466954958;Analista De Sistemas Sênior - Inteligência Artificial;Engenharia de Software;Tokio Marine Seguradora;On-Site;São Paulo;SP;26/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;706
+4477429978;Marketing Analyst;Negócios / Produto;Toptal;On-Site;Não informada (Grande SP);SP;19/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;707
+4436906037;Pessoa Cientista De Dados - Vaga Afirmativa Para Pessoas Negras;Engenharia de Software;Artefact;On-Site;Não informada (Grande SP);SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;708
+4482491570;Engenheiro De Dados Pl;Banco de Dados;Stefanini Brasil;On-Site;Osasco;SP;22/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;709
+4465111286;Analista De Planejamento Iii;Negócios / Produto;Dafiti;On-Site;São Paulo;SP;11/09/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;710
+4484557528;Analista De Ciência De Dados Pleno;Engenharia de Software;Ingram Micro;On-Site;São Paulo;SP;29/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;711
+4460566590;Analista De Dados;Negócios / Produto;BTG Pactual;On-Site;São Paulo;SP;11/10/2026;domingo;7.041,00;189,00%;Bruto_jobs_dados.xlsx;712
+4478733729;Cientista De Dados Pleno;Engenharia de Software;Jobbol;On-Site;São Paulo;SP;13/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;713
+4453363870;Assistente De Power Bi - Cotia;Negócios / Produto;TLSV - Serviços em Telecomunicações;On-Site;Cotia;SP;12/08/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;714
+4476479038;Analytics Engineer | Dados;Banco de Dados;C6 Bank;On-Site;São Paulo;SP;18/09/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;715
+4476320888;Sede Sp - Especialista De Planejamento Operacional;Negócios / Produto;dnata;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;716
+4480363425;Analista De Inteligência De Mercado;Negócios / Produto;GRF Distribuição;On-Site;Barueri;SP;16/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;717
+4398770033;Analista De Dados | First Mile;Negócios / Produto;Shopee;On-Site;São Paulo;SP;22/07/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;719
+4485625563;Data Operations And Ai Solutions Developer;Banco de Dados;Syneos Health Commercial Solutions;On-Site;Não informada (Grande SP);SP;30/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;720
+4464999412;Analista De Dados Bitrix;Negócios / Produto;Fisio Care Pet;On-Site;Não informada (Grande SP);SP;09/09/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;721
+4442978186;Senior Data Engineer;Banco de Dados;bp;On-Site;São Paulo;SP;16/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;722
+4472503667;Analista De Martech Pleno;Negócios / Produto;MB | Mercado Bitcoin;On-Site;São Paulo;SP;30/09/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;723
+4482233003;Gestão Técnica De Dados & Analytics;Negócios / Produto;TQI;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;724
+4481733975;Data Science Tech Manager;Gestão;Banco Bradesco;On-Site;Osasco;SP;20/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;725
+4481190173;Assistente De Inteligência De Mercado;Negócios / Produto;Scanntech Brasil;On-Site;São Paulo;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;726
+4475406517;Coordenador De Bi - Área Da Beleza;Gestão;W3haus;On-Site;São Paulo;SP;07/10/2026;quarta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;727
+4475711591;Analista De Mrm Sênior (Model Risk Management);Negócios / Produto;Equifax;On-Site;Barueri;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;728
+4463143930;Espec Tec Operações Iii (Análise De Dados);Negócios / Produto;Santander Brasil;On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;729
+4326593046;Analista De Dados Pleno (Área Customer Service) - São Paulo/Sp;Negócios / Produto;Shopee;On-Site;São Paulo;SP;22/07/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;730
+4483905796;Analista Mis Sênior;Negócios / Produto;Winover Contact Center;On-Site;Mogi das Cruzes;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;731
+4471961567;Data Governance Engineer Analyst / Pleno;Engenharia de Software;Keyrus;On-Site;São Paulo;SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;732
+4459669389;Analista De Produto Automóvel Ii - Frota;Negócios / Produto;Grupo HDI;On-Site;São Paulo;SP;31/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;733
+4472542782;Analista De Bi & Ba Pl | E-Commerce;Negócios / Produto;Riachuelo;On-Site;São Paulo;SP;01/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;734
+4450957174;Analista Em Governança De Dados Ia - Pleno - Pipeline;Engenharia de Software;EY;On-Site;São Paulo;SP;13/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;735
+4476367222;Customer Data Administration Specialist Ii;Negócios / Produto;METARH;On-Site;São Paulo;SP;06/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;737
+4480067363;Analista De Inteligência De Mercado Iii - Gollog (Acessível Também Para Pessoas Com Deficiência);Negócios / Produto;GOL Linhas Aéreas;On-Site;São Paulo;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;738
+4483839409;Assistente De Inteligência De Mercado - São Paulo - Sp;Negócios / Produto;Scanntech Brasil;On-Site;São Paulo;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;739
+4454900052;Analista Salesforce (Agentforce);Desenvolvimento;VR;On-Site;São Paulo;SP;18/08/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dados.xlsx;740
+4473432642;Consultor Martech Engineering Analytics;Engenharia de Software;Gauge;On-Site;São Paulo;SP;03/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dados.xlsx;741
+4474536762;Analista De Planejamento Comercial Pleno;Negócios / Produto;Porto;On-Site;São Paulo;SP;23/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;742
+4476972695;Business Analytics - Risco/Cro;Negócios / Produto;Stefanini Brasil;On-Site;São Paulo;SP;29/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;743
+4481795568;Analista Crm Sr - Inteligência Do Mercado;Negócios / Produto;Banco Bradesco;On-Site;São Paulo;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;744
+4475872286;Analista De Transportes Pl - Vaga Inclusiva Pcd;Negócios / Produto;DHL Supply Chain;On-Site;Jandira;SP;08/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;745
+4485224470;8297 - Engenheiro ( A) De Governança De Dados Sênior | Databricks;Engenharia de Software;B3;On-Site;São Paulo;SP;29/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;746
+4484855158;Fraud Prevention Team Lead;Negócios / Produto;dLocal;On-Site;São Paulo;SP;30/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;748
+4473423982;Analista Customer Insights Pleno;Negócios / Produto;Sem Parar;On-Site;São Paulo;SP;03/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;749
+4484871031;Ai & Ml Staff Engineer;Engenharia de Software;dLocal;On-Site;São Paulo;SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;750
+4476241363;Desenvolvedor(A) Ibm Datastage Pl/Sr;Banco de Dados;Global TI;On-Site;São Paulo;SP;09/10/2026;sexta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;751
+4483476827;Especialista De Ciência De Dados;Engenharia de Software;Banco BBC;On-Site;São Paulo;SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;752
+4471907446;Analista De Informações Gerenciais Sr.;Negócios / Produto;PagBank;On-Site;São Paulo;SP;21/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;753
+4483449726;Lider Data Modelagem - Scientist;Engenharia de Software;Santander Brasil;On-Site;São Paulo;SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;754
+4482297986;Analista De Produtos Junior;Negócios / Produto;GIGA+;On-Site;São Paulo;SP;28/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;756
+4484716608;Gerente De Planejamento Comercial - Campinas;Gestão;Superlógica Tecnologias;On-Site;Não informada (RM Campinas);SP;28/10/2026;quarta-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;757
+4470619565;Analista De Dados;Negócios / Produto;Pabum RH;On-Site;São Paulo;SP;22/09/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;758
+4472922220;Especialista Em Dados De Supply Chain E Ia - Américas;Engenharia de Software;Volkswagen Group Services - South America;On-Site;São Paulo;SP;01/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;759
+4474637869;Pessoa Especialista De Risco De Crédito;Negócios / Produto;Pravaler;On-Site;São Paulo;SP;27/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;760
+4452177626;Pessoa Analista De Informações Gerenciais Sr | Banco Carrefour;Negócios / Produto;Grupo Carrefour Brasil;On-Site;São Paulo;SP;11/08/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;761
+4466186408;Analista De Operações De Dados | Exclusiva Para Pcd;Negócios / Produto;Schneider Electric;On-Site;São Paulo;SP;15/09/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;762
+4470236327;Forward Deployed Engineer;Engenharia de Software;Avra;On-Site;São Paulo;SP;22/09/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;763
+4477828457;Analista De Inteligência Comercial Júnior;Negócios / Produto;Banco Sofisa S/A;On-Site;São Paulo;SP;09/10/2026;sexta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;764
+4481480381;Especialista De Growth Marketing E Dados;Negócios / Produto;Ituran Brasil;On-Site;São Paulo;SP;26/10/2026;segunda-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;765
+4478904170;Analista De Remuneração E People Analytics Pleno;Negócios / Produto;Demarest Advogados;On-Site;São Paulo;SP;20/10/2026;terça-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;766
+4483949010;Data Analyst;Negócios / Produto;BRP;On-Site;Não informada (RM Campinas);SP;31/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;767
+4476654520;Analista Administrativo Pl (Foco Em Indicadores E Analytics);Negócios / Produto;Assaí Atacadista;On-Site;São Paulo;SP;14/10/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;769
+4475308333;Analista De Inteligência De Mercado;Negócios / Produto;Votorantim Cimentos;On-Site;São Paulo;SP;03/10/2026;sábado;7.041,00;189,00%;Bruto_jobs_dados.xlsx;771
+4476753156;Analytics Engineer | Dados & Ia;Banco de Dados;BTG Pactual;On-Site;São Paulo;SP;29/10/2026;quinta-feira;9.435,00;253,00%;Bruto_jobs_dados.xlsx;772
+4482065956;Cientista De Dados;Engenharia de Software;Jobbol;On-Site;Jundiaí;SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dados.xlsx;773
+4482010072;Coordenador(A) De Dados Digitais - Tagueamento;Gestão;Porto;On-Site;São Paulo;SP;20/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;774
+4475874718;Process & Data Services Coordinator;Gestão;Vertiv;On-Site;São Paulo;SP;27/10/2026;terça-feira;20.097,00;540,00%;Bruto_jobs_dados.xlsx;775
+4466235707;Lhg Mining | Analista De People Analytics – São Paulo/Sp;Negócios / Produto;Lhg Mining;On-Site;São Paulo;SP;16/09/2026;quarta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;776
+4481227508;Analista De Transportes Jr;Negócios / Produto;DHL Supply Chain;On-Site;Jandira;SP;22/10/2026;quinta-feira;7.041,00;189,00%;Bruto_jobs_dados.xlsx;777
+4482711762;Desenvolvedor Fullstack Senior - Foco Em Python;Desenvolvimento;hub xp;On-Site;São Paulo;SP;22/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;2
+4483650066;Desenvolvedor Php - Trabalho Remoto;Desenvolvimento;BairesDev;Remote;Guarulhos;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;3
+4476863560;Desenvolvedor Back-End Pl | .Net;Desenvolvimento;Webmotors;On-Site;São Paulo;SP;31/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;4
+4484291308;Senior Python & Fastapi Engineer - Remote Work | Ref#306470;Engenharia de Software;BairesDev;Remote;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;5
+4454044477;Analista Desenvolvedor Jr (Flutter);Desenvolvimento;Evo Systems;On-Site;São Paulo;SP;13/08/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;6
+4484799205;(1618) Staff Django Backend Engineer;Engenharia de Software;Nortal;On-Site;São Paulo;SP;29/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;7
+4484555630;Desenvolvedor(A) Backend Java/Node;Desenvolvimento;Nava | Tech for Business;On-Site;São Paulo;SP;29/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;8
+4481999297;Software Engineer Pl;Engenharia de Software;Dock;On-Site;Barueri;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;9
+4480529320;Software Engineer Iii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;16/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;10
+4483056116;Desenvolvedor(A) Back-End Java/Node;Desenvolvimento;Nava | Tech for Business;On-Site;São Paulo;SP;29/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;11
+4462886343;Desenvolvedor(A) Front-End - Flutter;Desenvolvimento;Capco;On-Site;São Paulo;SP;17/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;12
+4482039093;Desenvolvedor(A) Backend Golang Júnior ( Novo Portal Do Parceiro);Desenvolvimento;Serasa Experian;On-Site;São Paulo;SP;21/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;13
+4479898907;Pessoa Desenvolvedora Backend Java Sr;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;15/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;14
+4415705276;Full Stack Developer (Python);Desenvolvimento;Perform;On-Site;São Paulo;SP;16/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;15
+4450506250;Desenvolvedor(A) Backend Sênior – Golang;Desenvolvimento;MB | Mercado Bitcoin;On-Site;São Paulo;SP;07/08/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;16
+4481921008;Mid-Level Software Engineer (Full Stack & Mobile) - Vaga Afirmativa Pcd - Indaiatuba/Sp;Engenharia de Software;John Deere;On-Site;Indaiatuba;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;17
+4451397343;Senior Backend Engineer (Go);Engenharia de Software;KAST;On-Site;São Paulo;SP;10/08/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;18
+4481995603;Software Engineer Sr;Engenharia de Software;Dock;On-Site;Barueri;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;19
+4465130002;Java Backend Developer Specialist;Desenvolvimento;MB | Mercado Bitcoin;On-Site;São Paulo;SP;11/09/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;20
+4474799383;Pessoa Desenvolvedora Fullstack Sênior;Desenvolvimento;Diel Energia;On-Site;São Paulo;SP;02/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;21
+4480091262;Software Engineer;Engenharia de Software;Mercado Livre Brasil;On-Site;Não informada (Grande SP);SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;22
+4462469517;Mid Level Backend Developer | Java;Desenvolvimento;Getnet Platforms;On-Site;São Paulo;SP;02/09/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;23
+4458726937;Desenvolvedor(A) Servicenow Sênior | Brasil;Desenvolvimento;Deloitte;On-Site;São Paulo;SP;30/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;24
+4477732737;Desenvolvedor Back-End .Net C# | Híbrido;Desenvolvimento;Newbacon;Hybrid;São Paulo;SP;17/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;25
+4475045767;Desenvolvedor(A) .Net;Desenvolvimento;Arctica Serviços Em Tecnologia;On-Site;Barueri;SP;02/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;26
+4452129031;Desenvolvedor/A Java Pl;Desenvolvimento;Infox;On-Site;São Paulo;SP;11/08/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;27
+4454118446;[Cloud] Especialista Em Engenharia De Software Backend .Net Core;Engenharia de Software;TOTVS;On-Site;São Paulo;SP;20/08/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;28
+4452683442;Analista Desenvolvedor Jr .Net;Desenvolvimento;Evo Systems;On-Site;São Paulo;SP;11/08/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;29
+4477851258;Desenvolvedor(A) Full Stack;Desenvolvimento;Visie;On-Site;São Paulo;SP;09/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;30
+4258069288;Especialista Em Desenvolvimento De Software I;Desenvolvimento;Serasa Experian;On-Site;São Paulo;SP;12/10/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;31
+4479063947;Desenvolvedor(A) Servicenow Pleno | Brasil;Desenvolvimento;Deloitte;On-Site;São Paulo;SP;13/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;32
+4468289924;Desenvolvedor Jr/ Pleno;Desenvolvimento;abler Vagas;On-Site;São Paulo;SP;16/09/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;33
+4484077279;Desenvolvedor Backend Java - Híbrido Em Sp;Desenvolvimento;Nfq Advisory, Solutions, Outsourcing;Hybrid;São Paulo;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;34
+4432474856;Desenvolvedor(A) .Net Sr;Desenvolvimento;Grupo Recovery;On-Site;São Paulo;SP;24/06/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;35
+4415242013;Desenvolvedor Full Stack;Desenvolvimento;SESATECH;On-Site;São Paulo;SP;25/05/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;36
+4415712184;Net Developer);Desenvolvimento;Perform;On-Site;São Paulo;SP;17/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;37
+4481449830;Desenvolvedor Java;Desenvolvimento;Minsait;On-Site;São Paulo;SP;26/10/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;38
+4460008494;Pessoa Desenvolvedora Golang (Pcd);Desenvolvimento;Shopee;On-Site;São Paulo;SP;25/10/2026;domingo;8.498,00;228,00%;Bruto_jobs_dev.xlsx;39
+4400748440;Dev Python Sr;Desenvolvimento;WTime Business Intelligence;On-Site;São Paulo;SP;14/04/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;40
+4454470609;Desenvolvedor(A) Front-End Angular | Pleno E Sênior | Inglês Avançado;Desenvolvimento;Accenture Brasil;On-Site;São Paulo;SP;21/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;41
+4482026358;Desenvolvedor Python;Desenvolvimento;Jobbol;On-Site;Vinhedo;SP;21/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;42
+4473075519;Desenvolvedor Full Stack Java;Desenvolvimento;DXC Technology;On-Site;São Bernardo do Campo;SP;20/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;43
+4418974493;Desenvolvedor(A) Back-End - Presencial.;Desenvolvimento;Bebee;On-Site;São Paulo;SP;25/05/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;44
+4478824260;Especialista Java;Desenvolvimento;Sevenred;On-Site;São Paulo;SP;14/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;45
+4479470055;Senior Software Engineer;Engenharia de Software;SumUp;On-Site;São Paulo;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;46
+4467648074;Senior Software Engineer;Engenharia de Software;Podium;On-Site;São Paulo;SP;13/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;47
+4481912600;Jr Full Stack Software Engineer - Vaga Afirmativa Pcd - Indaiatuba/Sp;Engenharia de Software;John Deere;On-Site;Indaiatuba;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;49
+4473072609;Desenvolvedor Full Stack Java - E-Commerce;Desenvolvimento;DXC Technology;On-Site;São Bernardo do Campo;SP;20/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;50
+4416933578;Engenheiro De Software Mobile (Flutter) | Btg Empresas;Engenharia de Software;BTG Pactual;On-Site;São Paulo;SP;08/09/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;51
+4423081982;Engenheiro De Software Frontend (Angular) | Digital Equities;Engenharia de Software;BTG Pactual;On-Site;São Paulo;SP;08/09/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;52
+4466248204;Senior Full Stack Engineer;Engenharia de Software;MrBeast;On-Site;São Paulo;SP;29/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;53
+4483260817;Desenvolvedor Fullstack– Especialista Em C# (.Net) E Angular;Desenvolvimento;LUZA Group;On-Site;São Paulo;SP;26/10/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;54
+4485243970;Desenvolvedor C# Pleno;Desenvolvimento;abler Vagas;On-Site;Santo André;SP;29/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;55
+4477482651;Desenvolvedor Fullstack - Node E Angular;Desenvolvimento;BRQ Digital Solutions;On-Site;São Paulo;SP;30/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;56
+4480235022;[Remoto] Desenvolvedor(A) Backend Pleno / Backend Engineer;Engenharia de Software;BBChain;Remote;São Paulo;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;57
+4406910393;Desenvolvedor Full Stack;Desenvolvimento;Jump;On-Site;São Paulo;SP;28/04/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;58
+4430122168;Grupo Quintoandar | Senior Platform Engineer (Women Applicants Only);Infraestrutura / DevOps;QuintoAndar;On-Site;São Paulo;SP;28/10/2026;quarta-feira;12.528,00;337,00%;Bruto_jobs_dev.xlsx;59
+4428837937;Desenvolvedor(A) Full Stack;Desenvolvimento;UneCont | Automação Fiscal;On-Site;São Caetano do Sul;SP;15/06/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;60
+4462557267;Desenvolvedor Junior;Desenvolvimento;ISA Saúde;On-Site;São Paulo;SP;08/09/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;61
+4471967787;Desenvolvedor Mobile;Desenvolvimento;Jump;On-Site;São Paulo;SP;29/09/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;63
+4443434628;Staff Frontend Software Engineer;Engenharia de Software;Tractian;On-Site;São Paulo;SP;18/10/2026;domingo;13.683,00;368,00%;Bruto_jobs_dev.xlsx;64
+4476496585;Sr Software Engineer;Engenharia de Software;Mercado Livre Brasil;On-Site;Não informada (Grande SP);SP;13/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;65
+4484088868;Mid Level Backend Developer | Node.Js;Desenvolvimento;Getnet;On-Site;São Paulo;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;66
+4470057279;Desenvolvedor(A) Front-End React/React Native Junior/Pleno (Híbrido);Desenvolvimento;Sioux digital 1:1;Hybrid;São Paulo;SP;25/09/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;67
+4247811401;Banco De Talentos - It Developer (Java/Angular) - Afirmativo Para Pessoas Com Deficiência;Desenvolvimento;F1RST Digital Services;On-Site;São Paulo;SP;13/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;68
+4420442919;(1403) Staff C# Engineer;Engenharia de Software;Nortal;On-Site;São Paulo;SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;69
+4476454001;Especialista Em Desenvolvimento Java - Hibrido_Sp.;Desenvolvimento;QiBit;Hybrid;São Paulo;SP;13/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;70
+4446960143;Desenvolvedor (A) Fullstack Sênior;Desenvolvimento;Aevium;On-Site;São Paulo;SP;31/07/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;71
+4476533317;Desenvolvedor Sênior;Desenvolvimento;Jobbol;On-Site;São Paulo;SP;07/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;72
+4480028536;Desenvolvedor Full Stack;Desenvolvimento;Dr. TIS;On-Site;São Paulo;SP;22/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;73
+4479322424;Senior Backend Engineer;Engenharia de Software;Jeeves;On-Site;Não informada (Grande SP);SP;21/09/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;74
+4464154912;Staff Software Engineer;Engenharia de Software;DoorDash;On-Site;São Paulo;SP;22/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;75
+4453255702;Desenvolvedor(A) Backend Java Microserviços + Aws – Inglês Avançado;Desenvolvimento;Accenture Brasil;On-Site;São Paulo;SP;16/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;76
+4476705980;Desenvolvedor Frontend Angular Pleno - Hibrido;Desenvolvimento;FOURSYS;Hybrid;Barueri;SP;07/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;77
+4475705234;Fullsatck Developer - Python (Remoto);Desenvolvimento;Sofira;Remote;São Paulo;SP;04/10/2026;domingo;8.498,00;228,00%;Bruto_jobs_dev.xlsx;78
+4484953275;Desenvolvedor(A) De Software Pleno;Desenvolvimento;Serena;On-Site;São Paulo;SP;29/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;79
+4477455167;Desenvolvedor Full Stack Pleno Ii;Desenvolvimento;Corebiz;On-Site;São Paulo;SP;08/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;81
+4462884395;Desenvolvedor(A) Backend Pleno - (Node.Js);Desenvolvimento;Capco;On-Site;São Paulo;SP;16/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;82
+4447194685;Backend Software Engineer - Golang;Engenharia de Software;1GLOBAL;On-Site;São Paulo;SP;31/07/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;83
+4472205796;Engineer – Mobile;Engenharia de Software;CloudWalk, Inc.;On-Site;Não informada (Grande SP);SP;17/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dev.xlsx;84
+4470061234;Desenvolvedor Fullstack Pleno (Híbrido);Desenvolvimento;Sioux digital 1:1;Hybrid;São Paulo;SP;25/09/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;85
+4449943614;Desenvolvedor De Software Junior;Desenvolvimento;AMLabs Ventures;On-Site;Não informada (RM Campinas);SP;06/08/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;86
+4477785377;Whatsapp - Software Engineer - Android;Engenharia de Software;WhatsApp;On-Site;São Paulo;SP;17/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dev.xlsx;87
+4484572240;Desenvolvedor(A) De Produto Júnior | Mamba Digital;Desenvolvimento;Mamba Digital;On-Site;Santos;SP;29/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;88
+4471947824;Desenvolvedor Salesforce - São Paulo/Sp;Desenvolvimento;Alpargatas S.A.;On-Site;São Paulo;SP;29/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;89
+4480082989;Desenvolvedor Java Pl;Desenvolvimento;Certisign;On-Site;São Paulo;SP;22/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;90
+4480995918;Desenvolvedor Backend Java - Pleno;Desenvolvimento;FCamara;On-Site;São Paulo;SP;19/10/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;92
+4479179293;Desenvolvedor Junior (Engenheiro De Software);Engenharia de Software;Shopee;On-Site;São Paulo;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;93
+4483444362;Desenvolvedor De Software I;Desenvolvimento;Thales;On-Site;São Bernardo do Campo;SP;30/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;94
+4456258553;Staff Backend Software Engineer;Engenharia de Software;Tractian;On-Site;São Paulo;SP;25/10/2026;domingo;13.683,00;368,00%;Bruto_jobs_dev.xlsx;95
+4469350190;Desenvolvedor Pleno | Barueri;Desenvolvimento;G2L LOGÍSTICA;On-Site;Barueri;SP;23/09/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;96
+4476711826;Desenvolvedor Full Stack;Desenvolvimento;MBRAS;On-Site;São Paulo;SP;07/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;97
+4445164862;Desenvolvedor Pleno Php - Híbrido Sp;Desenvolvimento;Bionexo;Hybrid;São Paulo;SP;10/07/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;98
+4473189467;Desenvolvedor(A) Sênior Hubspot;Desenvolvimento;Hook Digital;On-Site;São Paulo;SP;02/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;99
+4472211660;Backend Engineer Authentication;Engenharia de Software;CloudWalk, Inc.;On-Site;Não informada (Grande SP);SP;17/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dev.xlsx;100
+4453619040;Desenvolvedor Sr;Desenvolvimento;BANCO PAULISTA S.A.;On-Site;São Paulo;SP;13/08/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;101
+4446333908;Analista Desenvolvedor Full Stack Pleno;Desenvolvimento;ddCom Systems Ltda;On-Site;Barueri;SP;28/07/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;102
+4484297073;Analista De Engenharia De Software Pleno - Dynamics;Engenharia de Software;Porto;On-Site;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;103
+4482534830;Desenvolvedor Java / Aws / Salesforce Junior;Desenvolvimento;Brasilprev;On-Site;São Paulo;SP;28/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;104
+4477017254;Ai Engineer (Developer) - Autonomous Compliance Foundation;Engenharia de Software;SAP;On-Site;Não informada (Grande SP);SP;14/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;105
+4485384362;Desenvolvedor/Desenvolvedora Servicenow Sr;Desenvolvimento;Capgemini;On-Site;Barueri;SP;30/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;106
+4464820622;Desenvolvedor Abap Pleno;Desenvolvimento;Addvisor Group;On-Site;Barueri;SP;11/09/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;107
+4455971855;Staff Engineer - Java;Engenharia de Software;dLocal;On-Site;Não informada (Grande SP);SP;18/08/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;108
+4480224400;[Remoto] Desenvolvedor(A) Backend Sênior / Backend Engineer;Engenharia de Software;BBChain;Remote;São Paulo;SP;19/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;110
+4477780507;Whatsapp - Software Engineer - Ios;Engenharia de Software;WhatsApp;On-Site;São Paulo;SP;17/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dev.xlsx;111
+4484096664;Engenharia De Software - Mobile Júnior E Pleno | Vaga Exclusiva Para Pessoa Com Deficiência;Engenharia de Software;XP Inc.;On-Site;São Paulo;SP;27/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;112
+4410794421;Desenvolvedor(A) De Software Pleno - It Credit Risk;Desenvolvimento;Banco PAN;On-Site;São Paulo;SP;05/05/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;114
+4474494211;Desenvolvedor Power Platform/Copilot;Desenvolvimento;Teltec Data;On-Site;São Paulo;SP;07/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;115
+4474609459;Desenvolvedor Full Stack Pl;Desenvolvimento;Brasoftware;On-Site;São Paulo;SP;05/10/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;117
+4453803437;Pessoa Desenvolvedora Especialista Back-End Java E Kotlin | Core Platforms Engineering;Engenharia de Software;C6 Bank;On-Site;São Paulo;SP;02/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;119
+4483887931;Desenvolvedor(A) Fullstack - .Net/Angular;Desenvolvimento;Banco ABC Brasil;On-Site;São Paulo;SP;28/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;120
+4483269385;Board Developer;Desenvolvimento;Wipro;On-Site;São Paulo;SP;26/10/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;121
+4479018847;Engenheiro De Software Python (Especialista);Engenharia de Software;FOURSYS;On-Site;Não informada (Grande SP);SP;14/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;122
+4441888989;Desenvolvedor Abap Pleno;Desenvolvimento;Toledo do Brasil;On-Site;São Bernardo do Campo;SP;25/07/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;123
+4482284949;Full Stack .Net Developer;Desenvolvimento;ARMIS Group;On-Site;São Paulo;SP;28/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;124
+4482773510;Desenvolvedor(A) Back-End Java - Pleno;Desenvolvimento;FCamara;On-Site;São Paulo;SP;22/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;125
+4465078178;Senior Backend Engineer;Engenharia de Software;bunch;On-Site;São Paulo;SP;09/09/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;126
+4387092664;Pessoa Especialista De Engenharia De Software Backend;Engenharia de Software;Pravaler;On-Site;São Paulo;SP;26/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;127
+4479421512;Desenvolvedor Full Stack | Laas;Desenvolvimento;QI Tech;On-Site;São Paulo;SP;21/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;128
+4483202142;Engenheiro De Software .Net - Trabalho Remoto;Engenharia de Software;BairesDev;Remote;Guarulhos;SP;26/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;129
+4484290141;Full Stack Engineer (Python) - Remote Work | Ref#297413;Engenharia de Software;BairesDev;Remote;São Paulo;SP;27/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;130
+4484272862;Full Stack Engineer (.Net) - Remote Work | Ref#306425;Engenharia de Software;BairesDev;Remote;São Paulo;SP;27/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;131
+4464906565;Php Full Stack Developer - Remote Work | Ref#303421;Desenvolvimento;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;132
+4484276672;Backend Engineer (Kotlin) - Remote Work | Ref#290412;Engenharia de Software;BairesDev;Remote;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;133
+4435237874;Desenvolvedor Angular Pleno;Desenvolvimento;Nava | Tech for Business;On-Site;São Paulo;SP;01/07/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;134
+4462081257;Backend Engineer (Node) - Remote Work | Ref#302640;Engenharia de Software;BairesDev;Remote;São Paulo;SP;08/09/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;135
+4462070956;Senior Full Stack Engineer – Go & Vue.Js - Remote Work | Ref#302888;Engenharia de Software;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;137
+4472089275;Desenvolvedor(A) Java Pleno;Desenvolvimento;Nava | Tech for Business;On-Site;São Paulo;SP;14/09/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;138
+4474340891;Java Full Stack Developer - Remote Work | Ref#304777;Desenvolvimento;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;140
+4479229042;Principal Backend Engineer (Python) - Remote Work | Ref#305936;Engenharia de Software;BairesDev;Remote;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;141
+4464694721;Software Engineer (React Native) - Remote Work | Ref#294113;Engenharia de Software;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;142
+4483779373;Pessoa Desenvolvedora Fullstack Sr;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;144
+4483215258;Java Backend Developer - Remote Work;Desenvolvimento;BairesDev;Remote;Guarulhos;SP;26/10/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;145
+4483769680;Pessoa Desenvolvedora Ios Sr;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;146
+4484281426;Staff Backend Engineer – Python - Trabajo Remoto | Ref#306654;Engenharia de Software;BairesDev;Remote;São Paulo;SP;27/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;147
+4483229636;Desenvolvedor Java Junior - Trabalho Remoto;Desenvolvimento;BairesDev;Remote;Guarulhos;SP;26/10/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;148
+4483360052;Desenvolvedor(A) Fullstack | Adquirência;Desenvolvimento;Nava | Tech for Business;On-Site;São Paulo;SP;15/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;149
+4475051370;Pessoa Desenvolvedora Backend Java Sr;Desenvolvimento;Banco Bradesco;On-Site;Barueri;SP;24/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;151
+4474356167;Senior Node & Typescript & Aws Engineer - Remote Work | Ref#302283;Engenharia de Software;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;152
+4483778492;Pessoa Desenvolvedora Backend Java Pl - Copy;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;153
+4477491367;Desenvolvedor Fullstack .Net/React Pleno;Desenvolvimento;Nava | Tech for Business;On-Site;São Paulo;SP;08/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;154
+4476477421;Desenvolvedor(A) Full-Stack .Net Sênior;Desenvolvimento;Nava | Tech for Business;On-Site;São Paulo;SP;13/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;155
+4483783140;Pessoa Desenvolvedora Fullstack Sr;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;156
+4483767787;Pessoa Desenvolvedora Java Sr;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;158
+4409037386;Desenvolvedor Java Pleno;Desenvolvimento;Nava | Tech for Business;On-Site;São Paulo;SP;30/04/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;159
+4483760948;Pessoa Desenvolvedora Android Pl;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;160
+4468803652;Analista De Desenvolvimento De Software Ii;Desenvolvimento;Serasa Experian;On-Site;São Paulo;SP;30/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;161
+4462072463;Senior .Net Engineer - Remote Work | Ref#302806;Engenharia de Software;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;162
+4471667858;Analista De Desenvolvimento De Software Ii;Desenvolvimento;Serasa Experian;On-Site;São Paulo;SP;16/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;163
+4474359033;Principal Software Engineer – Python/Aws - Remote Work | Ref#305481;Engenharia de Software;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;164
+4470484839;Desenvolvedor(A) Especialista Aws E Python - Brasil;Desenvolvimento;Deloitte;On-Site;São Paulo;SP;14/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;165
+4483774594;Pessoa Desenvolvedora Java Sr;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;166
+4484201893;[Tech] Engenharia De Software Backend Pleno - Advpl E Python;Engenharia de Software;TOTVS;On-Site;São Paulo;SP;27/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;167
+4475231445;Engenheiro De Software Adquirência;Engenharia de Software;Nava | Tech for Business;On-Site;São Paulo;SP;09/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;169
+4455539334;Especialista Java;Desenvolvimento;Nava | Tech for Business;On-Site;São Paulo;SP;17/08/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;170
+4473065889;Desenvolvedor Java Full Stack - Aplicações Corporativas;Desenvolvimento;DXC Technology;On-Site;São Bernardo do Campo;SP;20/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;171
+4473080141;Desenvolvedor Backend Java/Kotlin;Desenvolvimento;DXC Technology;On-Site;São Bernardo do Campo;SP;20/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;172
+4480502303;Especialista De Desenvolvimento De Software - Vaga Afirmativa Para Pretos E Pardos;Desenvolvimento;Serasa Experian;On-Site;São Paulo;SP;16/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;174
+4479027541;Especialista De Desenvolvimento De Software;Desenvolvimento;Serasa Experian;On-Site;São Paulo;SP;13/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;175
+4483766793;Pessoa Desenvolvedora Backend Sr;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;176
+4444445689;Analista De Desenvolvimento De Software Iii;Desenvolvimento;Serasa Experian;On-Site;São Paulo;SP;18/10/2026;domingo;8.498,00;228,00%;Bruto_jobs_dev.xlsx;177
+4471680104;Analista De Desenvolvimento De Software Ii;Desenvolvimento;Serasa Experian;On-Site;São Paulo;SP;16/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;178
+4442973834;Desenvolvedor .Net Pleno;Desenvolvimento;4DF Connect;On-Site;São Paulo;SP;22/07/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;179
+4474853621;[Tech] Pessoa Desenvolvedora Pleno C# (Vaga Afirmativa Para Pessoas Com Deficiência);Desenvolvimento;TOTVS;On-Site;São Paulo;SP;08/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;181
+4464921650;Desenvolvedor(A) Servicenow Pleno| Vagas A Nível Brasil;Desenvolvimento;Deloitte;On-Site;São Paulo;SP;22/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;182
+4473085014;Desenvolvedor Backend Java E Integrações;Desenvolvimento;DXC Technology;On-Site;São Bernardo do Campo;SP;20/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;183
+4464930464;Desenvolvedor(A) Servicenow Sênior | Vagas A Nível Brasil;Desenvolvimento;Deloitte;On-Site;São Paulo;SP;21/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;184
+4478013479;Desenvolvedor Python;Desenvolvimento;Jobbol;On-Site;São Paulo;SP;10/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;185
+4481593575;Desenvolvedor(A) Servicenow Júnior | Vagas A Nível Brasil;Desenvolvimento;Deloitte;On-Site;São Paulo;SP;20/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;186
+4480843545;Desenvolvedor Full Stack Tms;Desenvolvimento;Jobbol;On-Site;Jandira;SP;17/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;187
+4480714854;Engenharia De Software Backend Sênior - Python | Rd Station (Remoto);Engenharia de Software;TOTVS;Remote;São Paulo;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;188
+4460559004;Senior Full-Stack Developer (Python) - Com Inglês - Remoto;Desenvolvimento;Capco;Remote;São Paulo;SP;11/10/2026;domingo;8.498,00;228,00%;Bruto_jobs_dev.xlsx;189
+4480077282;[Tech] Analista De Desenvolvimento De Software - Golang/Cloud;Desenvolvimento;TOTVS;On-Site;São Paulo;SP;22/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;190
+4477836683;Desenvolvedor Fullstack Pleno - Com Inglês - Híbrido - Barueri/Sp;Desenvolvimento;Capco;Hybrid;São Paulo;SP;31/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;192
+4481270161;Desenvolvedor Fullstack Java/React Júnior;Desenvolvimento;Nava | Tech for Business;On-Site;São Paulo;SP;24/09/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;193
+4477116593;Desenvolvedor Full Stack .Net/React Ou Angular;Desenvolvimento;Nava | Tech for Business;On-Site;Não informada (Grande SP);SP;08/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;194
+4478365739;Desenvolvedor Fullstack Sênior;Desenvolvimento;Jobbol;On-Site;São Paulo;SP;12/10/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;195
+4461246871;Desenvolvedor(A) Servicenow Sênior (Especialista Itom V) | Brasil;Desenvolvimento;Deloitte;On-Site;São Paulo;SP;13/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;196
+4482766161;Desenvolvedor Full Stack Sênior;Desenvolvimento;Jobbol;On-Site;São Paulo;SP;22/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;197
+4474352352;Ai Engineer (Python) - Remote Work | Ref#305329;Engenharia de Software;BairesDev;Remote;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;199
+4483774744;Pessoa Desenvolvedora Mainframe Pl;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;200
+4441229474;Engenheiro Ia (Desenvolvedor Fullstack);Engenharia de Software;4DF Connect;On-Site;São Paulo;SP;15/07/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;201
+4447073466;Engenheiro De Software Pleno À Sênior | Btg Empresas;Engenharia de Software;BTG Pactual;On-Site;São Paulo;SP;12/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;202
+4470006318;Mid Level Software Engineer (Sap Abap) - Indaiatuba/Sp;Engenharia de Software;John Deere;On-Site;Indaiatuba;SP;16/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;203
+4483136918;Especialista De Desenvolvimento De Software Ii - (Ios Security Sdk);Desenvolvimento;Serasa Experian;On-Site;São Paulo;SP;23/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;204
+4484286413;Aem Developer - Remote Work | Ref#306367;Desenvolvimento;BairesDev;Remote;São Paulo;SP;28/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;205
+4464697734;Lead Ai Engineer – Python - Remote Work | Ref#304158;Engenharia de Software;BairesDev;Remote;São Paulo;SP;01/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;206
+4480697714;[Tech] Engenharia De Software Pleno - Delphi;Engenharia de Software;TOTVS;On-Site;São Paulo;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;207
+4467909667;Especialista Fullstack (Java + Python + Angular);Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;28/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;208
+4480271051;Software Engineering Sênior;Engenharia de Software;Dock;On-Site;Barueri;SP;24/09/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;209
+4467237835;Engenheiro(A) De Software (Back-End Node.Js) - Investment Products;Engenharia de Software;BTG Pactual;On-Site;São Paulo;SP;27/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;210
+4469474608;Desenvolvedor Back-End Pl | .Net;Desenvolvimento;Webmotors;On-Site;São Paulo;SP;15/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;211
+4475702758;Desenvolvedor Back-End Pl | .Net;Desenvolvimento;Webmotors;On-Site;São Paulo;SP;29/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;212
+4469059971;Desenvolvedor Back-End Pl | .Net;Desenvolvimento;Webmotors;On-Site;São Paulo;SP;14/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;213
+4468785319;Software Engineer Pl;Engenharia de Software;Dock;On-Site;Barueri;SP;21/09/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;214
+4483768693;Pessoa Desenvolvedora Backend Java Sr;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;215
+4483768692;Pessoa Desenvolvedora Backend Java Sr;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;216
+4483768691;Pessoa Desenvolvedora Backend Java Sr;Desenvolvimento;Banco Bradesco;On-Site;Osasco;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;217
+4479072421;Desenvolvedor(A) Servicenow Sênior | Brasil;Desenvolvimento;Deloitte;On-Site;São Paulo;SP;13/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;218
+4484281031;Desenvolvedor(A) Servicenow Sênior | Brasil;Desenvolvimento;Deloitte;On-Site;São Paulo;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;219
+4480530322;Software Engineer Iii;Engenharia de Software;Banco Bradesco;On-Site;Osasco;SP;16/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;220
+4472949839;Sr Software Engineer;Engenharia de Software;Mercado Livre Brasil;On-Site;Não informada (Grande SP);SP;01/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;221
+4414963785;Desenvolvedor(A) Fullstack (React + .Net);Desenvolvimento;Nava | Tech for Business;On-Site;São Paulo;SP;14/05/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;223
+4477327640;[Tech] Especialista Em Engenharia De Software Golang - Cloud (Remoto);Engenharia de Software;TOTVS;Remote;São Paulo;SP;15/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;224
+4474474859;[Tech] Especialista Em Engenharia De Software Fullstack - Go/Angular | Cloud (Remoto);Engenharia de Software;TOTVS;Remote;São Paulo;SP;07/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;225
+4354439650;Desenvolvedor Full Stack Sênior;Desenvolvimento;Jump;On-Site;São Paulo;SP;13/01/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;226
+4447086415;Desenvolvedor Full Stack Pleno (Remoto);Desenvolvimento;Corebiz;Remote;São Paulo;SP;30/07/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;227
+4458677810;Senior Software Engineer - Indaiatuba/Sp;Engenharia de Software;John Deere;On-Site;Indaiatuba;SP;14/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;228
+4482551255;Ai Engineer Senior;Engenharia de Software;Hotmart;On-Site;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;229
+4420480093;Senior Software Engineer;Engenharia de Software;Zippi;On-Site;Não informada (Grande SP);SP;28/05/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;230
+4392020788;Programador Pleno C# / Sql;Desenvolvimento;Grupo Évora;On-Site;São Paulo;SP;28/03/2026;sábado;6.401,00;172,00%;Bruto_jobs_dev.xlsx;231
+4475273228;[Tech] Engenharia De Software Pleno - Java E Javascript (Remoto);Engenharia de Software;TOTVS;Remote;São Paulo;SP;09/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;232
+4483661072;"""Desenvolvedor Java Pleno #1021800""";Desenvolvimento;Dexian;On-Site;Não informada (Grande SP);SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;233
+4484096415;Desenvolvedor Sap Abap;Desenvolvimento;Jobbol;On-Site;São Paulo;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;234
+4389881632;Desenvolvedor Full Stack (Node.Js / React / Mongodb);Desenvolvimento;WTime Business Intelligence;On-Site;São Paulo;SP;25/03/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;235
+4472646353;"Pessoa Desenvolvedora Fullstack ""Ia""";Engenharia de Software;Volkswagen do Brasil;On-Site;São Bernardo do Campo;SP;30/09/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;236
+4452666604;Fullstack Software Engineer - [Ingeniero De Software Fullstack];Engenharia de Software;Clara;On-Site;São Paulo;SP;11/08/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;237
+4388108121;Grupo Quintoandar | Staff Software Engineer (Pwd Applicants Only);Engenharia de Software;QuintoAndar;On-Site;São Paulo;SP;12/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;238
+4482763208;Desenvolvedor Front-End Júnior;Desenvolvimento;Jobbol;On-Site;São Paulo;SP;22/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;239
+4450384306;Desenvolvedor Fullstack Sr. - Python E React (São Paulo-Sp);Desenvolvimento;Shopee;On-Site;São Paulo;SP;07/08/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;240
+4467978299;Desenvolvedor Full Stack Sênior;Desenvolvimento;Nava | Tech for Business;On-Site;Barueri;SP;16/09/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;241
+4483483689;Desenvolvedor Rpa Python / Ia Generativa;Automação;Nava | Tech for Business;On-Site;São Paulo;SP;30/10/2026;sexta-feira;6.221,00;167,00%;Bruto_jobs_dev.xlsx;242
+4479441688;Desenvolvimento De Software Pleno - Java E Javascript (Remoto);Desenvolvimento;TOTVS;Remote;São Paulo;SP;21/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;243
+4477830454;Software Engineer C# Pleno;Engenharia de Software;Mottu;On-Site;São Paulo;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;244
+4457984674;Engenheiro De Software Pl. (Full Stack);Engenharia de Software;UOL;On-Site;São Paulo;SP;29/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;245
+4482915872;Infotainment Software Engineer(A150532);Engenharia de Software;ECARX;On-Site;São Bernardo do Campo;SP;26/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;246
+4484257139;Desenvolvedor(A) Backend (C# | .Net) E/Ou Frontend + Angular;Desenvolvimento;BTG Pactual;On-Site;São Paulo;SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;247
+4477775738;Whatsapp - Software Engineer (Technical Leadership) - Android;Engenharia de Software;WhatsApp;On-Site;São Paulo;SP;17/10/2026;sábado;13.683,00;368,00%;Bruto_jobs_dev.xlsx;248
+4485639576;Desenvolvedor/Desenvolvedora Servicenow Sênior;Desenvolvimento;Capgemini;On-Site;Barueri;SP;30/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;249
+4480861075;Analista De Desenvolvimento;Desenvolvimento;Digi;On-Site;Não informada (Grande SP);SP;17/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;250
+4473651929;Staff Software Engineer;Engenharia de Software;Creditas;On-Site;São Paulo;SP;27/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;251
+4459424094;Senior Full Stack Software Engineer;Engenharia de Software;Lenovo;On-Site;Indaiatuba;SP;11/10/2026;domingo;13.683,00;368,00%;Bruto_jobs_dev.xlsx;252
+4406219343;Banco De Talentos _ Desenvolvedor Power Platform;Desenvolvimento;KPMG Brazil;On-Site;São Paulo;SP;02/04/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;253
+4435348035;Semi Senior React Native Developer - Remote Work | Ref#296609;Desenvolvimento;BairesDev;Remote;São Paulo;SP;21/07/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;254
+4480730403;Senior Full Stack Software Engineer - Ecommerce - Indaiatuba/Sp;Engenharia de Software;John Deere;On-Site;Indaiatuba;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;255
+4384214485;Desenvolvedor Servicenow Pleno E Sênior;Desenvolvimento;Accenture Brasil;On-Site;São Paulo;SP;24/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;256
+4445155959;Desenvolvedor Fullstack | Fundos De Investimento;Desenvolvimento;QI Tech;On-Site;São Paulo;SP;06/07/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;257
+4442134854;Desenvolvedor(A) Back-End;Desenvolvimento;Avanade;On-Site;São Paulo;SP;14/09/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;258
+4480586044;Desenvolvedor/ Desenvolvedora Fullstack;Desenvolvimento;Capgemini;On-Site;Barueri;SP;17/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;259
+4458722069;Desenvolvedor Pleno;Desenvolvimento;Redefrete;On-Site;Barueri;SP;25/08/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;260
+4480685286;Desenvolvedor C# Ou Fullstack;Desenvolvimento;Entelgy Brasil;On-Site;São Paulo;SP;23/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;261
+4466004165;Desenvolvedor Backend Pleno - Com Inglês - Remoto;Desenvolvimento;Capco;Remote;São Paulo;SP;24/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;262
+4447080744;Desenvolvedor De Software;Desenvolvimento;FairCom Corporation;On-Site;São Paulo;SP;30/07/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;263
+4482312650;Desenvolvedor Abap Sênior;Desenvolvimento;Addvisor Group;On-Site;São Paulo;SP;24/10/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;264
+4390973775;Desenvolvedor Especialista;Desenvolvimento;WTime Business Intelligence;On-Site;São Paulo;SP;27/03/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;267
+4468584814;Backend Engineer Ledger;Engenharia de Software;CloudWalk, Inc.;On-Site;São Paulo;SP;13/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;268
+4359816083;Full Stack Developer;Desenvolvimento;Mitel;On-Site;São Paulo;SP;09/05/2026;sábado;8.498,00;228,00%;Bruto_jobs_dev.xlsx;269
+4479023908;Senior Agentic Ai Developer;Engenharia de Software;Coderio;On-Site;Não informada (Grande SP);SP;13/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;270
+4476462682;Pessoa Desenvolvedora Especialista Back-End Java E Kotlin | Cadastro;Desenvolvimento;C6 Bank;On-Site;São Paulo;SP;18/09/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;271
+4476479031;Pessoa Desenvolvedora Especialista Back-End Java E Kotlin | Onboarding;Desenvolvimento;C6 Bank;On-Site;São Paulo;SP;25/09/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;272
+4465910174;Android Engineer;Engenharia de Software;SumUp;On-Site;São Paulo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;273
+4473069787;Desenvolvedor Java - Integração (Oracle Osb);Desenvolvimento;DXC Technology;On-Site;São Bernardo do Campo;SP;20/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;274
+4478197152;Desenvolvedor Wordpress Full Stack Sr;Desenvolvimento;Global TI;On-Site;São Paulo;SP;14/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;275
+4480527540;Engineer – Open Finance;Engenharia de Software;CloudWalk, Inc.;On-Site;Não informada (Grande SP);SP;16/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;276
+4472845491;Pessoa Desenvolvedora Pleno – Foco Em Desenvolvimento Agêntico;Engenharia de Software;Nimbi S/A;On-Site;São Paulo;SP;02/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;277
+4473084058;Desenvolvedor De Ia E Chatbots (Java/Python);Engenharia de Software;DXC Technology;On-Site;São Bernardo do Campo;SP;20/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;278
+4474534867;Tech Lead Backend Java Sr;Engenharia de Software;Banco Bradesco;On-Site;Barueri;SP;23/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;279
+4450953424;Desenvolvedor (A) Fullstack Java - Pleno - Pipeline;Desenvolvimento;EY;On-Site;São Paulo;SP;13/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;280
+4481497204;Software Engineer;Engenharia de Software;Arvo;On-Site;São Paulo;SP;26/10/2026;segunda-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;281
+4484764484;[Distribution/Rex] Software Engineer Pleno;Engenharia de Software;Stone;On-Site;Não informada (Grande SP);SP;29/10/2026;quinta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;282
+4442405796;Especialista De Desenvolvimento De Software (Tech Lead Java);Engenharia de Software;Serasa Experian;On-Site;São Paulo;SP;11/10/2026;domingo;13.683,00;368,00%;Bruto_jobs_dev.xlsx;283
+4481981199;Devops Engineer Sênior;Infraestrutura / DevOps;Accenture Brasil;On-Site;São Paulo;SP;23/10/2026;sexta-feira;12.528,00;337,00%;Bruto_jobs_dev.xlsx;284
+4482074088;Desenvolvedor De Inteligência Artificial;Engenharia de Software;Devpartner;On-Site;Não informada (Grande SP);SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;285
+4481969257;"""Dev. Java Fullstack Pl./Sr. # 1021799"" - Vaga Também Aberta Para Pessoas Com Deficiência (Pcd)";Desenvolvimento;Dexian;On-Site;São Paulo;SP;23/10/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;286
+4479150371;Desenvolvedor Fullstack;Desenvolvimento;PROA.AI;On-Site;São Paulo;SP;15/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;287
+4479456052;Desenvolvedor Salesforce Com Certificação;Desenvolvimento;Globality IT Latam;On-Site;São Paulo;SP;21/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;288
+4484288281;Platform Engineer (Kubernetes) - Remote Work | Ref#295055;Infraestrutura / DevOps;BairesDev;Remote;São Paulo;SP;28/10/2026;quarta-feira;12.528,00;337,00%;Bruto_jobs_dev.xlsx;289
+4459004508;Desenvolvedor(A) Full Stack (Java) - Pleno (127454);Desenvolvimento;Prezensa People Tech;On-Site;São Paulo;SP;25/08/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;290
+4457941043;Desenvolvedor Full Stack;Desenvolvimento;MSB Tecnologia;On-Site;Santos;SP;26/08/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;291
+4473965143;Analista De Sistemas Backend;Desenvolvimento;Kalunga S.A.;On-Site;São Paulo;SP;30/09/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;293
+4479587881;Desenvolvedor Sap Abap;Desenvolvimento;CAST;On-Site;São Paulo;SP;14/10/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;294
+4483882588;Full Stack Engineer Id98062;Engenharia de Software;AgileEngine;On-Site;São Bernardo do Campo;SP;28/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;295
+4388182000;Desenvolvedor(A) Full Stack | Angular & Spring Boot;Desenvolvimento;Avanade;On-Site;São Paulo;SP;14/05/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;296
+4409993946;Backend Python Senior;Desenvolvimento;Omnibees;On-Site;São Paulo;SP;06/05/2026;quarta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;297
+4466634524;Senior Salesforce Developer;Desenvolvimento;CreatorIQ;On-Site;São Paulo;SP;18/09/2026;sexta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;298
+4483447302;Engenheiro De Software Ii (Pleno);Engenharia de Software;Thales;On-Site;São Bernardo do Campo;SP;30/10/2026;sexta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;299
+4473552476;Full Stack .Net Engineer (Angular) - Remote - Latin America;Engenharia de Software;FullStack;Remote;São Paulo;SP;21/10/2026;quarta-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;301
+4476474384;Frontend Software Engineer - Ag & Trading;Engenharia de Software;Cargill;On-Site;São Paulo;SP;13/10/2026;terça-feira;13.683,00;368,00%;Bruto_jobs_dev.xlsx;302
+4465225726;Programador Pleno;Desenvolvimento;Expresso Rio Vermelho Transportes;On-Site;São Paulo;SP;14/09/2026;segunda-feira;6.401,00;172,00%;Bruto_jobs_dev.xlsx;303
+4474634983;Servicenow Senior Developer;Desenvolvimento;Lenovo;On-Site;Não informada (Grande SP);SP;27/10/2026;terça-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;304
+4466553711;Desenvolvedor(A) Ios Pl/Sr;Desenvolvimento;FOURSYS;On-Site;Não informada (Grande SP);SP;01/10/2026;quinta-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;305
+4377768044;Desenvolvedor Abap Hcm Pleno;Desenvolvimento;Lab2dev;On-Site;São Paulo;SP;02/03/2026;segunda-feira;8.498,00;228,00%;Bruto_jobs_dev.xlsx;306
