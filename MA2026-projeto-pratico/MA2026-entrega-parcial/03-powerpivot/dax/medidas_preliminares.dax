@@ -1,0 +1,42 @@
+// ===================================================================
+// VagaRadar_03_PowerPivot.xlsx -- medidas preliminares (Etapa 3)
+// Tabela-base de todas as medidas: fVagas
+// ===================================================================
+
+// Quantas vagas foram publicadas? -- Inteiro
+Vagas Postadas := COUNTROWS( fVagas )
+
+// Qual o salário médio total de TI? -- Moeda, 2 casas
+Salário Médio de TI := AVERAGE( fVagas[salario_medio] )
+
+// Qual o salário médio de referência do Brasil? -- Moeda, 2 casas
+Salario Medio Brasil := AVERAGEX( FILTER( fVagas, fVagas[Indice_medio_vs_brasil_ajustado] > 0 ), DIVIDE( fVagas[salario_medio], fVagas[Indice_medio_vs_brasil_ajustado] ) )
+
+// Quantas vagas são em formato remoto? -- Inteiro
+Qtd Vagas Remotas := CALCULATE( [Vagas Postadas], fVagas[Modelo_Trabalho] = "Remote" )
+
+
+// ===================================================================
+// MEDIDAS DE CONFERÊNCIA E INTEGRIDADE (Etapa 3)
+// ===================================================================
+
+// Quantidade de linhas na tabela fato fVagas -- Inteiro
+Conf Linhas fVagas := COUNTROWS( fVagas )
+
+// Quantidade de linhas na tabela de rejeitados -- Inteiro
+Conf Linhas Rejeitados := COUNTROWS( Rejeitados )
+
+// Total de linhas lidas (fato + rejeitados) -- Inteiro
+Conf Linhas Lidas := [Conf Linhas fVagas] + [Conf Linhas Rejeitados]
+
+// Verificação de chaves primárias duplicadas na dimensão de cargos -- Inteiro (deve ser 0)
+Conf PK Duplicada Cargo := ( COUNTROWS( CargoReferencia ) - DISTINCTCOUNT( CargoReferencia[id_cargo] ) ) + 0
+
+// Verificação de vagas sem título/cargo associado -- Inteiro (deve ser 0)
+Conf Vagas sem Cargo := COUNTROWS( FILTER( fVagas, ISBLANK( [Titulo_Vaga] ) ) ) + 0
+
+// Verificação de vagas sem cidade válida na dimensão -- Inteiro (deve ser 0)
+Conf Vagas sem Cidade := COUNTROWS( FILTER( fVagas, ISBLANK( RELATED( Cidades[Cidade] ) ) ) ) + 0
+
+// Verificação de vagas sem data de publicação válida no calendário -- Inteiro (deve ser 0)
+Conf Vagas sem Data := COUNTROWS( FILTER( fVagas, ISBLANK( RELATED( dCalendario[Data] ) ) ) ) + 0

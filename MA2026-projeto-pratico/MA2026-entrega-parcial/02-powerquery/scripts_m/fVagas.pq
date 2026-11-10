@@ -27,8 +27,8 @@ List.RemoveMatchingItems(Record.FieldValues(Record.SelectFields(_, ColunasAlvo))
         {"Modelo_Trabalho", each fnValorOficial(_, {"On-Site", "Remote", "Hybrid", "Não Informado"}), type text}
     }),
     Chave_Cidade = Table.AddColumn(ModeloTrabalhoOficial, "Chave_Cidade", each Text.Upper([Localizacao])),
-    MesclaCidade = Table.NestedJoin(Chave_Cidade, {"Chave_Cidade"}, DeParaCidades, {"Chave_Local"}, "DeParaCidades", JoinKind.LeftOuter),
-    ExpandeCIdade = Table.ExpandTableColumn(MesclaCidade, "DeParaCidades", {"Cidade", "UF"}, {"Cidade", "UF"}),
+    MesclaCidade = Table.NestedJoin(Chave_Cidade, {"Chave_Cidade"}, Cidades, {"Chave_Local"}, "Cidades", JoinKind.LeftOuter),
+    ExpandeCIdade = Table.ExpandTableColumn(MesclaCidade, "Cidades", {"Cidade", "UF"}, {"Cidade", "UF"}),
     Chave_Cargo = Table.AddColumn(ExpandeCIdade, "Chave_Cargo", each Text.Upper([Titulo_Vaga])),
     MesclaCargo = Table.NestedJoin(Chave_Cargo, {"Chave_Cargo"}, CargosVinculados, {"Chave_Cargo"}, "CargosVinculados", JoinKind.LeftOuter),
     ExpandeCargo = Table.ExpandTableColumn(MesclaCargo, "CargosVinculados", {"id_cargo"}, {"id_cargo"}),
